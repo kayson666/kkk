@@ -31,6 +31,6 @@ def batch_convert(input_folder, output_folder):
             word_path = os.path.join(output_folder, word_filename)
             pdf_to_word(pdf_path, word_path)
 
-input_folder = "kkk/论文"
-output_folder = "kkk/论文"
+input_folder = "kkk/现代文本"
+output_folder = "kkk/现代文本"
 batch_convert(input_folder, output_folder)
