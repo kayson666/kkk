@@ -1,0 +1,408 @@
+中医杂志2021年4月第62卷第7期 Journal of Traditional Chinese Medicine，2021，Vol．62，No．7 ·557·
+DOI:10．13288/j．11-2166/r．2021．07．002
+基于 《黄帝内经》 探讨心血管病加重
+和死亡的时间规律
+蔡银河1，林莉雯1，李荣2
+1. 广州中医药大学，广东省广州市白云区机场路12号，510405; 2. 广州中医药大学第一附属医院
+［摘要］ 《黄帝内经》对心血管病病情加重和死亡的时间规律有两种认识，即受外环境影响较大的 “相克
+说”和受内环境影响较大的 “气化说”。通过分析心血管病病情时间变化规律的相关临床报道，验证 《黄帝
+内经》的两种时间规律学说，并探索相关的防护措施。总结心血管病在年周期上以相克说为主、以气化说
+为辅，即冬季是心血管病的主要危险期，但由于五脏气化，心血管病患者在夏季高温天气时病情也易加重甚
+至死亡; 日周期上以气化说为主、以相克说为辅，即上午是心血管病的主要危险期，同时夜间发病的心血管
+患者更易继发心血管事件。基于心血管病病情变化的时间规律，提出通过中医时间治疗学、夜间降压方案以
+及正确的个人防护可以有效减少心血管病加重和死亡风险。
+［关键词］心血管病; 时间规律; 《黄帝内经》; 时间治疗学; 年节律; 日节律
+疾病的发生、发作、转归( 向愈或恶化) 和死 系统认为，人秉造化旋转的中气而生于天地气交之
+亡常有一定的时间规律，不同疾病恶化和死亡的时 中，人体生理结构和生命活动与自然界相通应。自
+间倾向不同，《黄帝内经》对这种现象早有论述［1］。 然环境有着周期性的四季、昼夜更替以及地域差异
+其中，有关心血管病 ( cardiovascular diseases， 等，在长期的进化过程中，人体为了适应外部环
+CVDs) 病情的节律变化在 《黄帝内经》中有较为 境，形成了与自然规律相适应的气候自适应调节能
+全面的记载，不过表述相对简洁，且其准确性也有 力 ( 以下简称 “气候适应能力”) 。
+待考察。我国心血管病患者目前约有2.9 亿，且心 《灵枢·顺气一日分为四时》言:“四时之气，……
+血管病死亡率在居民疾病死亡中占 40%以上［2］。 春生、夏长、秋收、冬藏，是气之长也，人亦应
+现阶段由于人口老龄化、城镇化进程的加速，心血
+之。”为了适应自然界四时五行的变化，人体形成
+管病危险因素流行趋势明显，导致我国心血管病患
+了气候适应能力，而这种能力是通过 “五脏应时”
+病人数持续增加［2］。近年来，随着时间医学研究
+所实现的。现代研究［3］表明，中医五脏不是确指
+的深入，有关心血管病病情节律变化的临床研究被
+五个解剖器官，而是机体应时而变的时间调控系
+大量报道，为研究 《黄帝内经》中心血管病病情
+统。《灵枢·本藏》言: “五脏者，所以参天地，
+加重和死亡时间规律的相关理论提供了客观充分的
+副阴阳，而连四时，化五节者也”，恽铁樵亦言:
+材料。本研究以心血管病恶化和死亡时间的临床报
+“《内经》之五脏，非血肉的五藏，乃四时之五
+道为基础，阐释 《黄帝内经》中论述心血管病病
+藏”［4］，提示机体通过五脏与自然界相应，使人体
+情变化的时间规律，并探索相关的心血管病防护
+内环境与外环境相适应。至于人体是否发病则是内
+措施。
+环境、外环境相互作用的结果。对于大多数心血管
+1 机体的气候自适应调节能力与疾病的发生
+病患者而言，当内在环境无法适应外在环境的变化
+《素问·宝命全形论篇》曰: “人以天地之气 时就会导致病情加重甚至死亡，而机体的气候适应
+生，四时之法成。” 《黄帝内经》提出的天 地 人 能力在其中起关键作用。当外界环境的变化超过机
+体气候适应能力，或机体气候适应能力受损不能承
+基金项目:广东省科技计划(2014A020221071);广州中医药大学第
+受外界环境变化时，机体无法通过五脏应时的协调
+一临床医学院“创新强院”团队孵化计划(2018XXDT01)
+通讯作者:2240268696@qq.com 来实现内、外环境的统一，最终导致“病脏”病情
+·558· 中医杂志2021年4月第62卷第7期 Journal of Traditional Chinese Medicine，2021，Vol．62，No．7
+加重甚至死亡。 季冠心病患者的死亡时间有集中在00: 32 的趋势。
+2 《黄帝内经》对心血管病加重和死亡时间规律的 此外，Ｒeiter 等［10］发现 1: 00 左右发病的 STEMI
+患者心肌损伤最严重，肌酸激酶峰值最高。
+认识
+Paradies等［11］回顾性分析 11731 例接受经皮冠状
+2.1 相克说———外环境主导，五行生克，所不胜
+动脉介入治疗 ( PCI) 术的 STEMI 患者，亦发现
+则甚
+00: 00—05: 59 发病的 STEMI 患者心肌缺血时间
+《灵枢·顺气一日分为四时》曰: “是不应四
+最长，且18: 00—23: 59 和00: 00—05: 59 发病
+时之气，脏独主其病者，是必以脏气之所不胜时者
+的患者PCI术后1 年内继发心力衰竭再入院的风险
+甚，以其所胜时者起也。”《素问·六节藏象论篇》
+增加30% ～50%。可见，夜间亦是心血管病的危
+亦言: “变至则病，所胜则微，所不胜则甚。因而
+险期，主要表现为夜间发病的心血管病患者心肌损
+重感于邪，则死矣。”根据五行与时日、季节的配
+伤最严重，继发心血管事件的风险更高。
+属，《黄帝内经》认为外环境在五行克己之时段，
+2.2 气化说———内环境主导，五脏气化，当其时
+“病脏”易于发病、加重甚至死亡，我们将之概括
+则死
+为“相克说”。《素问·六节藏象论篇》指出: “心
+《素问·阴阳应象大论篇》曰: “天有四时五
+者，生之本，其充在血脉，为阳中之太阳，通于夏
+行，以生长收藏。”自然界有着 “生、长、化、
+气”，心属阳脏，主身之血脉，由于冬季五行属
+收、藏”的连续状态变化，人亦应之。《素问·金
+水，夜半亦为冬，此时寒邪最甚，人体 “阳脏”
+匮真言论篇》曰: “五脏应四时，各有收受”，机
+受克，心主血脉的生理功能受制，无法及时、平稳
+体通过五脏应时功能来实现相应状态的转变，使人
+地调节自身血压以适应外环境的变化，导致血压波
+体内外环境相适，五脏之气因季节、时辰变化各有
+动过大，原有心血管病病情加重，甚至出现心血管
+盛衰。《脉经》云: “心……王夏三月，发季夏六
+事件，正如 《医门法律·中寒门》所言: “胸痹心
+月”，夏季万物欣欣向荣，人与自然相应，也要转化
+痛，然总因阳虚虚，故阴得乘之”。
+为“长”的状态，心之气化在此过程发挥重要作
+2.1.1 年节律———甚于冬 《素问·脏气法时论
+用。然而在这个转化过程中，正如 《素问遗篇·本
+篇》曰: “心主夏，……病在心，愈在长夏; 长夏
+病论》所云: “人之五脏，一脏不足，又会天虚，
+不愈，甚于冬，冬不死，持于春，起于夏。” 《黄
+感邪之至也。人忧愁思虑即伤心，又或遇少阴司
+帝内经》“相克说”认为五行受克的冬季是心血管
+天，天数不及，……又遇惊而夺精，汗出于心，因
+病的危险期，而夏季是相对安全期。Yang 等［5］研
+而三虚，神明失守，……令人暴亡”，心病者心气
+究了我国23000 例心血管病患者血压和死亡的季
+本虚，心主血脉功能失常，倘若恰逢所主的季节、
+节性规律，结果显示心血管病患者冬季死亡率较夏
+时辰 ( 少阴司天之时) ，火行其政，需要心之气化
+季增加41%，平均收缩压 ( SBP) 明显高于夏季。
+以实现相应机体状态的转化，可导致心气进一步亏
+对2007—2013 年间我国 195516 例心血管病和 虚、耗竭，此时若受邪汗出，进一步损害心主血脉
+50658 例心肌梗死死亡病例进行研究后发现［6］，冬
+功能，以致病情加重乃至死亡。《素问·通评虚实
+季心血管病和心肌梗死的死亡风险明显高于夏季。 论篇》言: “非其时则生，当其时则死”，夏季五
+此外，对84697 例冠心病患者入院及死亡时间分 行属火，一日分四时，上午乃阳中之阳，此时火行
+析后亦发现［7］，冠心病冬春季节多发，且冬季死
+其政，心之气化进一步耗竭心气，心病 “当其时”
+亡率最高。可见，心血管病在心脏受克的冬季易于 者易受邪发病、加重，我们将之概括为“气化说”。
+加重、死亡，而夏季是相对安全期。 2.2.1 年节律———暴热至，甚则心痛 《黄帝内
+2.1.2 日节律———夜半甚 《素问·脏气法时论 经》“相克说”认为，在年周期上冬季是心血管病
+篇》曰: “心病者，日中慧，夜半甚，平旦静。” 的主要危险期、夏季是相对安全期。“气化说”则
+日中为夏，夜半为冬，《黄帝内经》 “相克说”已 指出夏季亦是心血管病的危险期，二者看似矛盾，
+明确夜间是心血管病的危险期。相关研究［8］发现， 但正如 《素问·五常政大论篇》所云: “暴热至土
+23: 00—7: 00 发病的急性 ST 段抬高型心肌梗死 乃暑，阳气郁发，……甚则心痛”，若心病患者在
+( STEMI) 患者心血管事件的发生率最高。对 299 夏季恰逢高温天气 ( 热邪) ，由于心之气化进一步
+例冠心病患者死亡时间进行分析［9］，结果显示冬 耗伤心气，仍可诱发心血管病加重甚至导致死亡。
+中医杂志2021年4月第62卷第7期 Journal of Traditional Chinese Medicine，2021，Vol．62，No．7 ·559·
+分析我国16599 例缺血性心肌病 ( IHD) 患者的死 伤程度最重，更容易继发心血管事件。据此，结合
+亡时间发现［12］，IHD 死亡率在夏季高温天气 《黄帝内经》相关防治理论，可通过中医时间治疗
+(29.9 ～33.1℃) 时增加了 18%。Sun 等［13］亦发 学、夜间降压方案以及正确的个人防护来减少心血
+现心血管病死亡风险在5 月至9 月期间恰逢连续两 管病加重和死亡风险。
+日高温天气时增加了22.0%。此外，研究［14］显示 3.1 中医时间治疗学
+夏季 (5 月至9 月) 高温天气时 ( ＞30℃) 中风 中医时间治疗学由来已久，早在 《素问·脏
+和IHD的死亡风险升高最明显。Chau 等［15］则发现 气法时论篇》中就提出 “合人形以法四时五行而
+在夏季 ( 5 月至 9 月) 高温天气时 ( ≥30.4℃) 治”的治疗理念，经过不断的发展实践，目前时
+IHD和中风死亡人数每日均有增加。可见，夏季高 间治疗学中的子午流注针法配合西药在心血管病的
+温亦是心血管病的危险因素，在夏季恰逢高温天气 治疗上取得了肯定疗效，常用的有纳子法、纳甲
+法、养子时刻法等。如李彩莲等［20］发现相比于常
+时，心病患者病情易加重甚至死亡。
+2.2.2 日节律———平旦至日中 《黄帝内经》 规针刺，子午流注纳甲法针刺能显著降低原发性高
+“气化说”认为，上午亦是心血管病的危险期。 血压患者的各项血压值，且其杓型血压转变率显著
+高于对照组。李实等［21］在对照组口服厄贝沙坦基
+《素问·金匮真言论篇》曰: “平旦至日中，天之
+阳，阳中之阳也。”平旦至日中，阳气升发，心发 础上利用子午时辰开穴法低频电治疗 30 例原发性
+挥气化功能以实现状态转化，在人体具体表现为血 高血压患者，结果治疗组SBP、舒张压 ( DBP) 及
+血脂水平下降程度均优于对照组。此外，王红
+压晨峰现象，即晨起后4h 左右人体血压升至全天
+涛［22］发现子午流注纳甲法针刺配合西医治疗能更
+第1 个高峰。心病心气本虚，心主血脉功能受损，
+显著改善心绞痛患者的临床症状，减少硝酸甘油服
+此时由于心之气化进一步损耗心气，可引起血压晨
+用量。
+峰值波动过大，或出现清晨高血压，以致原有心血
+管病加重甚至死亡。一项研究［16］统计了908 例急 随着对心血管病日节律认识的不断深入，中医
+时间治疗学对心血管病最佳时间疗效的研究也逐渐
+性心肌梗死 ( AMI) 患者的入院时间，结果显示上
+午 (08: 01—12: 00) 发病率最高。另有研究［17］ 展开。如杨帆等［23］分别在辰时 ( 7: 00—9: 00
+时) 、未时 ( 13: 00—15: 00) 、酉时 ( 17: 00—
+亦发现，上午 ( 06: 00—11: 59) AMI 发病率较
+19: 00) 针刺足三里、曲池、太冲、内关等穴治
+其他时段高34.69%。国外研究［18］也有相关报道，
+疗54 例高血压病患者，治疗后各组患者血压均有
+上午 ( 06: 00—12: 00) 是 AMI、心绞痛、心源
+不同程度下降，其中酉时针刺降压程度明显优于辰
+性猝死的高发时间段。此外，Mahajan 等［19］发现梗
+时与未时。邓玫等［24］则发现，与上午针刺相比，
+阻性、非梗阻性冠心病均好发于上午，Paradies
+在心包经经气旺盛之时 ( 19: 00—21: 00) ，养子
+等［11］研究结果发现，11731 例 STEMI 患者的发病
+择时法针刺能更有效降低冠心病患者总胆固醇、甘
+时间显示上午 ( 06: 00—11: 59) 发病率高达
+油三酯水平。此外，郑素霞等［25］对比200 例肝阳
+32.3%。可见，上午 ( 平旦至日中) 亦是心血管
+上亢型高血压病患者择时服用中药 ( 卯时、亥时)
+病的主要危险期。
+和常规时间 ( 早、晚餐前 30min) 服药的降压疗
+3 心血管病病情变化时间规律对于心血管病防护
+效，结果显示择时服药的降压效果优于常规时间给
+的指导意义
+药。高淑瑞［26］亦发现择时 ( 卯时、亥时) 服药能
+《黄帝内经》对心血管病病情变化时间规律 更有效降低高血压病患者24h SBP、24h DBP 及夜
+的认识可概括为 “相克说”和 “气化说”两种。 间SBP、DBP水平。总之，现阶段中医针刺治疗心
+经现有临床报道验证，我们发现，在年节律上，以 血管病的最佳时间还处于研究阶段，且穴位贴
+相克说为主、气化说为辅，即冬季是心血管病病情 敷［27］、中药沐足［28］等中医择时治疗的研究亦尚未
+加重、死亡的高发季节，但由于五脏气化，心血管 有定论，不过在口服汤剂上，根据目前研究结果卯
+病患者在夏季高温天气时病情也容易加重甚至导致 时、亥时服药治疗高血压病的疗效优于常规早晚餐
+死亡; 在日节律上，以气化说为主、相克说为辅， 前30min服药。
+心血管病在 “平旦至日中”易于加重，心血管事 3.2 夜间降压方案
+件高发，而由于水克火脏，夜间发病的患者心肌损 根据上述研究，在日节律上，心血管病患者上
+·560· 中医杂志2021年4月第62卷第7期 Journal of Traditional Chinese Medicine，2021，Vol．62，No．7
+午易发病或加重，而夜间发病的患者更易继发心血 低、偏高时，心血管病情易于加重或者死亡。据
+管事件。研究［29－30］表明，日间、夜间血压升高与 此，个人应随外界温度高低，早晚适时增减衣被，
+心血管事件关系密切，其中夜间血压升高较日间、 饮食寒温适中，正如 《素问·六元正纪大论篇》
+24h血压升高与心血管病靶器官损害、心血管事件 所言: “用寒远寒，用凉远凉，用温远温，用热远
+的关系更为密切，夜间血压水平是心血管病重要的 热，食宜同法”，以减少外环境变化时对心血管病
+预后指标。对此，有研究［31］发现，夜间降压方案 情的影响程度。
+既能降低夜间血压水平，又能抑制晨起血压陡增， 有研究［36］发现，老年人在夏季午后炎热时坚
+能更有效地控制心血管病患者血压水平，从而减少 持午睡能减少心血管事件的发生。此外，相比于清
+心血管病加重和死亡风险。如许耀等［32］对比 110 晨，高血压病患者夜间中等强度运动能更显著减少
+例高血压患者清晨 ( 6: 00—8: 00) 服用硝苯地 受试者全身血管阻力，降低上午诊室血压［37］。基
+平控释片和夜间 ( 19: 00—21: 00) 服用的降压 于此，心血管病患者应避免清晨剧烈运动。冬季尤
+疗效和心血管事件发生率，结果显示夜间服药能更 其冬夜是心血管病易于加重的时间段，Yu 等［38］对
+有效地降低白天、夜间 SBP 及清晨 SBP 上升速度 38589 例受试者平均随访7.14 年后发现，室外温
+等，心血管事件发生率亦小于白天服药组。朱岫芳 度与心脑血管事件发生率之间呈负相关，即室外温
+等［33］亦发现高血压病患者夜间 ( 20: 00) 的24h 度越低、心脑血管事件发生率越高，而在完全集中
+SBP低于清晨8: 00 服药，且晨峰现象缓解率明显 供暖期间，受试者心脑血管事件发生率明显降低。
+高于晨服组。此外，安少波等［34］观察128 例老年高 国外学者［39］亦发现，相比于对照组 ( 室内温度控
+血压患者晨起 (6: 00—8: 00) 和睡前 (20: 00— 制在 12℃) ，集中供暖 ( 室内温度控制在 22℃)
+22: 00) 服用缬沙坦及非洛地平的降压疗效，进 能更显著地降低受试者清晨血压水平，减少血压波
+一步验证了夜间服药的降压效果。同时国外研 动。此外，有研究者［40］对比不同冬衣套装在持续
+究［35］结果显示，夜间降压方案能显著降低夜间血 15min冷暴露 ( －5℃) 下的保暖效果，结果发现
+压，增加杓型血压转化率，减少心血管事件的发 不带帽子时受试者血压升高更明显。因此，冬季集
+生。Hermida等［31］对比 19084 例高血压病患者夜 中供暖、及时添加冬衣冬帽在抑制血压波动、预防
+间与清晨降压方案的心血管事件的发生情况，结果 心血管事件发生方面可发挥重要作用。
+平均随访6.3 年出现1752 例心血管事件，显示夜 3.3.2 对于邪之生于阴者———健康合理的饮食生
+间降压能更有效地降低夜间血压，提高杓型血压转 活方式 不合理膳食、吸烟、久坐等不良生活方
+化率，心血管死亡、心肌梗死、心力衰竭发生率分 式，超重/肥胖、高血压、血脂代谢异常、糖尿病
+别减少56%、34%、42%。 等疾病，个人心理压力，是心血管病常见的危险因
+3.3 个人防护 素［2］。危险因素控制得越好，未来心血管病的发
+《素问·调经论篇》曰: “夫邪之生也，或生 生风险越低。Lv 等［41］对461211 名受试者 ( 未患
+于阴，或生于阳，其生于阳者，得之风雨寒暑，其 心血管病、糖尿病和癌症) 平均随访 7.2 年后出
+生于阴者，得之饮食居处。” 《素问·上古天真论 现3331 例心血管事件，结果发现保持至少4 项健
+篇》曰: “上古之人，其知道者，法于阴阳，和于 康生活方式 ( 不吸烟或戒烟、每日饮酒 ＜30g、坚
+术数，食饮有节，起居有常，不妄作劳，故能形与 持体育锻炼、蔬菜水果摄入充足、减少红肉摄入、
+神俱，而尽终其天年，度百岁乃去。”疾病发生是 男性腰臀比 ＜0.90 或女性 ＜0.85) 的受试者主要
+内因、外因共同作用的结果，依据心血管病病情变 心血管事件、冠心病、脑梗死发生率分别减少
+化的时间规律，积极发挥个人的主观能动性，通过 58%、43%、39%，接近 67.9% 的主要心血管事
+正确有效的个人防护，可减少心血管事件的发生。 件可归因于健康生活方式的低依从性。Liu 等［42］对
+3.3.1 对于邪之生于阳者———避之有时 《素问· 11527 例糖尿病患者 ( 无心血管病、癌症) 平均随
+上古天真论篇》曰: “虚邪贼风，避之有时”，《素 访13.3 年后出现2311 例心血管病和858 例心血管
+问·八正神明论篇》亦言: “四时者，所以分春秋 病死亡病例，其中坚持至少 3 种健康生活方式
+冬夏之气所在，以时调之也，八正之虚邪而避之勿 ( 合理膳食、戒烟、每周体育锻炼≥150min、男性
+犯也”。一年之冬季、夏季，一日之夜间、上午均 每日饮酒5 ～30g、女性每日饮酒5 ～15g) 的受试
+是心血管病的主要危险期，概言之，当外界温度偏 者心血管病患病率减少 52%，心血管病死亡率减
+中医杂志2021年4月第62卷第7期 Journal of Traditional Chinese Medicine，2021，Vol．62，No．7 ·561·
+少68%。此外，Han 等［43］的研究亦发现保持4 种 能有效地降低夜间、清晨血压及心血管事件发生
+理想的心血管健康指标 ( 不吸烟或戒烟、控制体 率。然而目前夜间降压方案未能统一，且尚未区分
+重指数 ＜25.0kg/m2、适度的身体活动、合理膳 其中起主要作用的降压药物。
+食) 预计可减少17%的心血管病发生，而仅保持 总之，疾病发生发展是内外环境共同作用的结
+理想血压即可显著减少各种心血管事件的发生。 果，外在环境和内在环境影响疾病病情变化的本质
+是 “气”，即四时之气与人体之气。 《灵枢·顺气
+4 小结
+一日分为四时》曰: “四时之气，……春生、夏
+《黄帝内经》中对心血管病加重和死亡的时间
+长、秋收、冬藏，是气之长也，人亦应之”，提示
+规律有详细记载，并可归纳为 “相克说”和 “气
+天地四时之气有四时生、长、化、收、藏的状态，
+化说”两种时间规律。理论上，“相克说”和 “气
+人体之气通过五脏应时实现与天地之气的呼应，四
+化说”认为五行受克之时和脏腑气化之时均是病
+时之气与人体之气的相互作用产生了疾病转归的两
+脏的危险期，其中看似有互相矛盾之处，其实是忽
+种时间变化规律。“法象莫大乎天地，变通莫大乎
+略了不同疾病受外在环境和内在环境影响程度不同
+四时”，要准确把握疾病转归的时间规律，当先立
+的事实。心血管病的病情转归是机体外在环境和内
+足于天地四时五行的变化，同时结合 “相克说”
+在环境共同影响的结果，本研究通过总结有关心血
+和 “气化说”，才能完整地认识疾病转归的时间规
+管病加重和死亡时间的临床报道，证实了 《黄帝
+律。如此则更有助于个人和医疗工作者准确把握心
+内经》两种时间规律的准确性。具体而言，心血
+血管病病情变化的时间规律，并通过中医时间治疗
+管病在年周期上受外在环境影响大，以 “相克说”
+学、夜间降压方案、正确的个人防护等措施防治心
+为主导，冬季是主要危险期，但由于五脏应时气
+血管病。
+化，心血管病患者在夏季高温天气病情也易于加重;
+参考文献
+而在日周期上受内在环境的影响大，以 “气化说”
+［1］张天星，贺娟． 《黄帝内经》论述的病情变化规律验证
+为主导，上午是主要危险期，但由于五行生克，夜
+研究［J］． 北京中医药大学学报，2017，40(2):93 97．
+间发病的心血管病患者更易继发心血管事件。
+［2］胡盛寿，高润霖，刘力生，等．《中国心血管病报告2018》
+目前，中医时间治疗学、夜间降压方案及个人
+概要［J］． 中国循环杂志，2019，34(3):209 220．
+防护在预防心血管病发生、加重和死亡上取得了一
+［3］马淑然，李澎涛，郭霞珍，等． 关于中医“肺应秋”本质
+定进展。虽然中医时间治疗学对于心血管疾病最佳
+内涵的理论探讨［J］． 中医杂志，2006，47( 9): 643
+治疗时间的研究已逐渐开展，但择时针刺、穴位贴
+645．
+敷、中药沐足等治疗心血管病的最佳时间尚未定
+［4］张宇鹏． 西方医学对藏象学研究的影响［J］． 中国中医
+论，而择时口服汤剂的疗效目前仅局限于对高血压
+基础医学杂志，2009，15(12):881 882．
+病患者的观察，仍缺少对冠心病等其他心血管病的 ［5］YANG L，LI L，LEWINGTON S，et al． Outdoor tempera-
+高质量研究。在个人防护方面，冬季集中供暖、个 ture，blood pressure，and cardiovascular disease mortality
+人及时添加冬衣冬帽、避免清晨剧烈运动虽存在一 among23000 individuals with diagnosed cardiovascular dis-
+定程度的心血管获益，但缺少对远期心血管结局的 easesfrom China［J］． Eur Heart J，2015，36(19):1178
+观察研究数据支持。此外，个人保持健康的生活方 1185．
+式 ( 合理膳食、饮酒量，戒烟，足够的运动等) ［6］YANG J，ZHOU M，OU C，et al． Seasonal variations of
+temperature-related mortality burden from cardiovascular
+能显著减少心血管事件的发生，而仅保持理想血压
+disease and myocardial infarction in China［J］． Environ
+即有显著的心血管获益。然而，虽然2015 年我国
+Pollut，2017，224: 400 406． doi: 10． 1016/j． envpol．
+研究发现≥18 岁成人高血压知晓率已提升至
+2017．02．020．
+51.6%，但控制率仅为16.8%［44］。对此，个人还
+［7］姜红岩，廖星，谢雁鸣，等． 84697例冠心病患者入院及
+应积极监测、控制自身血压，而健康宣教、简化降
+死亡时间和节气关系的分析［J］． 中国中医基础医学杂
+压药物治疗方案也有助于提高患者的治疗依从性，
+志，2014，20(10):1364 1366．
+改善预后［45］。现阶段，夜间血压水平已成为心血
+［8］孙秀华，屈百鸣，金钦阳，等． 急性ST段抬高型心肌梗
+管发病及死亡的重要预后指标，相比于清晨服用降 死发病时间与住院期间恶性心律失常事件的关系研究
+压药，夜间降压的心血管患者血压控制情况更佳， ［J］． 心电与循环，2019，38(3):200 203．
+·562· 中医杂志2021年4月第62卷第7期 Journal of Traditional Chinese Medicine，2021，Vol．62，No．7
+［9］潘晓彦，黄政德，晋溶辰，等． 冠心病患者死亡时间调查 ［22］王红涛． 子午流注纳甲法结合辨证取穴针刺治疗冠心
+［J］． 中医杂志，2013，54(17):1464 1466． 病心绞痛的临床效果观察［J］． 现代诊断与治疗，
+［10］ＲEITEＲ Ｒ，SWINGEN C，MOOＲE L，et al． Circadian 2017，28(21):3945 3947．
+dependence of infarct size and left ventricular function ［23］杨帆，王频，昂文平，等． 择时针刺对高血压患者血压
+after ST elevation myocardial infarction．［J］． Circ Ｒes， 及血流动力学即时效应的影响［J］． 上海针灸杂志，
+2012，110(1):105 110． 2002，21(2):8 9．
+［11］PAＲADIES V，ZHENG H，CHAN MHH，et al． Impact ［24］邓玫，张琳． 择时针法对冠心病患者血脂的影响［J］．
+of time of onset of symptom of ST-segment elevation myo- 中医药通报，2005，4(4):28 30．
+cardial infarction on1-year rehospitalization for heart fail- ［25］郑素霞，王晓丽，盖灵芝． 中医时间治疗学在肝阳上亢
+ure and mortality．［J］． Am Heart J，2020，224: 1 9． 型高血压病病人中的应用研究［J］． 护理研究，2008，
+doi: 10．1016/j．ahj．2020．03．011． 22(10):2580 2581．
+［12］GUO Y，LIS，ZHANGY，etal． Extremelycoldandhot ［26］高淑瑞． 中医时间给药在高血压护理中的应用探讨
+temperatures increase the risk of ischaemic heart disease ［J］． 实用临床医药杂志，2011，15(22):77 78．
+mortality: epidemiological evidence from China［J］． ［27］黄燕芳，向萍． 子午流注指导下穴位贴敷应用于肝阳
+Heart ( British Cardiac Society)，2013，99( 3): 195 上亢型高血压的临床研究［J］． 临床医学工程，2016，
+203． 23(6):818 819．
+［13］SUNZ，CHENC，YANM，etal． Heatwavecharacteris- ［28］邹涛，尹克春，黄静梅，等． 子午流注择时沐足改善肝
+tics，mortality and effect modification by temperature 火亢盛型高血压病效果观察［J］． 新中医，2014，46
+zones: a time-series study in 130 counties of China［J］． (8):216 218．
+Int J Epidemiol，2020，7: dyaa104． doi: 10． 1093/ije/
+［29］HEＲMIDA ＲC，AYALA DE，SMOLENSKY MH，et al．
+dyaa104．
+Sleep-time blood pressure: Unique sensitive prognostic
+［14］JIAO A，YUC，XIANGQ，etal． Impactofsummerheat
+marker of vascular risk and therapeutic target for preven-
+on mortality and years of life lost: application of a novel
+tion［J］． Sleep Med Ｒev，2017，33: 17 27． doi: 10．
+indicator of daily excess hourly heat［J］． Environ Ｒes，
+1016/j．smrv．2016．04．001．
+2019，172:596 603． doi: 10．1016/j．envres．2019．01．
+［30］INVESTIGATOＲS ABC-H，ＲOUSH GC，FAGAＲD ＲH，
+056．
+et al． Prognostic impact from clinic，daytime，and night-
+［15］CHAU P，CHAN K． Hot weather warning might help to
+time systolic blood pressure in nine cohortsof13，844 pa-
+reduceelderlymortalityinHongKong［J］． IntJBiomete-
+tientswith hypertension［J］． J Hypertens，2014，32(12):
+orology，2009，53(5):461 468．
+［16］封锐，王林，王罗莎，等． 老年急性心肌梗死发病时间 2332 2340．
+序列研究［J］． 天津医药，2013，41(5):434 437． ［31］HEＲMIDA ＲC，CＲESPO JJ，DOMNGUEZ-SAＲDIA
+［17］曾浩炜，陈锐，陈维维，等． 急性心肌梗死发生的昼夜 M，et al． Bedtime hypertension treatment improvescardi-
+节律及其对12个月内预后的影响［J］．中国循证心血 ovascular risk reduction: the hygia chronotherapy trial
+管医学杂志，2019，11(11):1300 1305． ［J］． Eur Heart J，2019，22:ehz754． doi: 10．1093/eur-
+［18］POＲTALUPPI F，TISEO Ｒ，SMOLENSKY M，et al． heartj/ehz754．
+Circadian rhythms and cardiovascular health［J］． Sleep ［32］许耀，郝云霞，崔爱东，等． 硝苯地平控释片不同时间
+Med Ｒev，2012，16(2):151 166． 给药对高血压患者血压变异性的影响［J］． 中华高血
+［19］MAHAJAN AM，GANDHI H，SMILOWITZ NＲ，et al． 压杂志，2015，23(6):543 548．
+Seasonal andcircadianpatternsofmyocardialinfarctionby ［33］朱岫芳，康凯． 不同时间服用氯沙坦治疗原发性高血
+coronary artery disease status and sex in the action 压病晨峰现象的疗效及安全性研究［J］． 中国全科医
+registry-GWTG［J］． Int J Cardiol，2019，274: 16 20． 学，2015，18(32):3973 3976．
+doi: 10．1016/j．ijcard．2018．08．103． ［34］安少波，徐雷，杜晓静，等． 高血压时间治疗学在高龄
+［20］李彩莲，田春艳，管浩，等． 子午流注纳甲法配合辨证 老年高血压患者的应用［J］． 中国老年学杂志，2018，
+针刺对青年原发性高血压昼夜节律的影响［J］． 上海 38(23):5636 5639．
+针灸杂志，2019，38(4):364 368． ［35］BOWLES N，THOSAＲ S，HEＲZIG M，et al． Chrono-
+［21］李实，卢玉彬，张敦憨，等． 子午时辰开穴法低频电配 therapy for hypertension［J］． Curr Hypertens Ｒep，2018，
+合药物治疗原发性高血压疗效观察［J］． 上海针灸杂 20(11):97．
+志，2019，38(7):731 735． ［36］孙建新，王惟恒． 黄帝内经养生经［M］． 北京:人民军
+中医杂志2021年4月第62卷第7期 Journal of Traditional Chinese Medicine，2021，Vol．62，No．7 ·563·
+医出版社，2010:69． tyle and cardiovascular diseases in the Chinese? Popula-
+［37］BＲITO L，PECANHA T，FECCHIO Ｒ，et al． Morning tion［J］． J Amer Col Card，2017，69(9):1116 1125．
+versus evening aerobic training effects on blood pressure ［42］LIUG，LIY，HUY，etal． Influenceoflifestyleoninci-
+in treated hypertension［J］． Med Sci Sports Exerc，2019， dent cardiovascular disease and mortality in patients with
+51(4):653 662． diabetes mellitus［J］． J Am Coll Cardiol，2018，71(25):
+［38］YU B，JIN S，WANG C，et al． The association of out- 2867 2876．
+door temperaturewithbloodpressure，anditsinfluenceon ［43］HAN C，LIU F，YANG X，et al． Ideal cardiovascular
+future cardio-cerebrovascular disease risk in cold areas health and incidence of atherosclerotic cardiovascular dis-
+［J］． J Hypertens，2020，38(6):1080 1089． ease among Chinese adults: the China-PAＲ project［J］．
+［39］SAEKI K，OBAYASHI K，IWAMOTO J，et al． Influ- Sci China Life Sci，2018，61(5):504 514．
+enceofroomheatingonambulatorybloodpressureinwin- ［44］WANGZ，CHENZ，ZHANGL，etal． Statusofhyperten-
+ter: a randomised controlled study［J］． J Epid Commun sion in China: resultsfromtheChinahypertensionsurvey，
+Heal，2013，67(6):484 490． 2012 2015［J］． Circulation，2018，137( 22): 2344
+［40］LI Y，ALSHAEＲ H，FEＲNIE G． Blood pressure and 2356．
+thermal responses to repeated whole body cold exposure: ［45］MILLS K，BUNDY J，KELLY T，et al． Global dispari-
+effect of winter clothing［J］． Eur J Appl Physiol，2009， ties of hypertension prevalence and control: a systematic
+107(6):673 685． analysis of population-based studies from 90 countries
+［41］LV J，YU C，GUO Y，et al． Adherence to healthy lifes- ［J］． Circulation，2016，134(6):441 450．
+Exploring the Temporal Ｒhythm of the Exacerbation and Death of Cardiovascular Diseases from The Inner
+Canon of Yellow Emperor ( 《黄帝内经》)
+CAI Yinhe，LIN Liwen，LI Ｒong
+1． Guangzhou University of Chinese Medicine，Guangzhou，510405; 2． The First Affiliated Hospital of Guangzhou University of
+Chinese Medicine
+ABSTＲACT The Inner Canon of Yellow Emperor ( 《黄帝内经》) had two theories about the temporal rhythm of the
+exacerbation and death of cardiovascular diseases ( CVDs) ，which were“restraint theory”and“qi transformation the-
+ory”，addressing the great influence by external surroundingsand internal environment respectively． The clinical studies
+reporting the temporal rhythm of CVDs progression were analyzed to verity the two theories from The Yellow Emperor's
+Inner Classic，and the corresponding protective measures were discussed． The annual rhythm of CVDs progression was
+predominated by the“restraint theory”，complemented with“qi transformation theory”，explaining that winter was the
+riskiest season for the worsening and death of CVDs，but simultaneously，CVDs patients were also likely to get worse
+or even die in the hot summer due to qi transformation of five viscera． The daily rhythm of CVDs progression was pre-
+dominated by“qi transformation theory”，complemented with“restraint theory”，which explained that morning was
+the main risky period of CVDs，and CVDs attacks at night were more likely to have secondary cardiovascular events．
+In accordance with the temporal rhythm of CVDs progression，the chronotherapy of traditional Chinese medicine，night
+blood pressure reduction treatment protocol，as well as correct self-protection measures，should be adopted to prevent
+from exacerbation and death of CVDs．
+Keywords cardiovascular diseases; temporal rhythm; Inner Canon of Yellow Emperor; chronotherapy; annual
+rhythm; daily rhythm
+(收稿日期: 2020－05－06; 修回日期: 2020－09－17)
+［编辑: 崔京艳］

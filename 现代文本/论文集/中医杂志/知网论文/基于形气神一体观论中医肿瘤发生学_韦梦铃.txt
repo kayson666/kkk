@@ -1,0 +1,216 @@
+中医杂志2021年7月第62卷第14期 Journal of Traditional Chinese Medicine，2021，Vol．62，No．14 ·1197·
+学术探讨
+DOI:10．13288/j．11-2166/r．2021．14．001
+基于形气神一体观论中医肿瘤发生学
+韦梦铃1，付西1，王玉婷1，杜磊1，肖冲1，严然1，郑川1，2，由凤鸣1，3
+1. 成都中医药大学附属医院，四川省成都市金牛区十二桥路39号，610075; 2. 成都中医药大学肿瘤学教研室; 3. 成都中医
+药大学肿瘤研究所
+［摘要］ 形气神一体观是中医认识生命活动和疾病演进的核心理论。从形、气、神的病理关联探讨肿瘤的
+发生，认为肿瘤的形成以心动神摇为源，神不御气为基，气形转化失司为始，形质异化为果。肿瘤的发生是
+形、气、神异常交联互动的恶性渐进过程，故基于形气神一体观剖析肿瘤的发生，不仅对构建肿瘤的中医病
+因病机体系有重要意义，同时可为中医辨治肿瘤提供有效的指导。
+［关键词］肿瘤; 发生学; 形气神一体观
+中医肿瘤发生学揭示了肿瘤发生的病因病机及 窍、四肢百骸、皮肉筋脉等 “视之可见，触之可
+恶性演化过程，是确立肿瘤治则治法的根本依据， 及”的宏观形体，亦包括精、血、津、液等濡养
+故明确肿瘤的发生规律对于辨治肿瘤至关重要。人 机体的精微形质［3］。气充斥于形体，是维持生命
+体是形体 气化 精神心理与功能活动之间高度协 活动的原动力，其激发和推动各精微形质之间的相
+作互动的有机整体，神旺、气调、形安是人体健康 互转化和代谢，从而化生生命能量。心神驱动脏腑
+的保证，疾病状态时则形、气、神相互损伤。中医 功能运转，主导情志的产生与变化，并调控情志活
+学对心神、气化、形质在肿瘤发生中的作用早有认 动与脏腑功能之间的相互影响，神既是生命活动的
+识，认为肿瘤是多因素、多重作用的结果，其形成 主宰，也是统制心理活动的精神机能。
+虽直接来源于精血津液等形质异化，但气化失调与
+1.2 形气神一体的生理特性
+心神异常是其关键病机［1］。以上看似独立的病机
+形、气、神之间的交联互动是其基本的生理特
+背后实则存在形、气、神之间的病理关联，故本文
+性。《淮南子·原道训》云: “形者，生之舍也;
+拟从形气神一体的整体观视角，探讨肿瘤发生的总
+气者，生之充也; 神者，生之制也。”气的运行、
+体演进规律，以期为肿瘤的系统性防治提供思路。
+神的活动皆依附于形体而进行，而五脏所主之精微
+1 形气神一体观的生理病理概述 形质是藏舍神、气的直接载体，正如 《灵枢·本
+形气神一体观是中医理论体系的核心，其将组 神》所云: “肝藏血，血舍魂” “肺藏气，气舍
+成人体的要素高度概括为形、气、神三个维度，从 魄”。神之始生，由父母之精相合而成; 而又 “形
+整体联动的视角阐明了机体是形、气、神一体互动 以精成，而精生于气” ( 《类经附翼·大宝论》) 。
+的自组织系统［2］，揭示了病变发生的基本形式是 阴阳二气抟聚化生先天之精，水谷精微气化为后天
+形、气、神相失。 之精，精与气相合，聚则构成宏观形体，散则承载
+1.1 形、气、神的内涵概述 神的功能活动，形神的化生全赖气化，故气为沟通
+形、气、神是构成人体生命活动的基本要素。 形神之桥梁。神是 “统驭精气而运用之主”( 《类
+形作为构成人体的物质实体，其内涵既包括脏腑官 经》) ，主导气的功能发挥与精微形质的新陈代谢。
+可见，形、气、神之间相互依存、相互为用，共同
+基金项目:国家自然科学基金(82074315);四川省中医药重点学科
+构成具有自调节、自稳态功能的自组织系统，从而
+建设项目(2100601)
+通讯作者:youfengming@cdutcm.edu.cn 使生命活动有序进行; 当致病因素打破形、气、神
+书书书
+·1198· 中医杂志2021年7月第62卷第14期 Journal of Traditional Chinese Medicine，2021，Vol．62，No．14
+之间的自稳态调节，则疾病发生［4］。 论》记载乳岩因 “忧怒抑郁，朝夕积累”， 《医学
+1.3 形气神相失的病理关联 津梁》记载噎嗝 “由忧郁不开，思虑太过，忿怒
+形、气、神三者一损俱损: 其一，形质受损， 不伸，惊恐变故”，可见肿瘤虽有瘿瘤、乳岩、噎
+使神气失去承载而离乱，如 《灵枢·本神》云: 嗝等之别，但心动神摇均可为其形成之源。
+“至其淫泆离脏则精失，魂魄飞扬，志意恍乱，智 现代研究［7］发现，焦虑、抑郁等导致的慢性
+虑去身”; 精微疏泄过度，神失守位而恍乱，甚则 精神应激在肿瘤发生中发挥着关键作用，其可增加
+神无所依而脱离形体; 而神根源于五脏精微、生成 肺癌、口腔癌、前列腺癌、皮肤癌、乳腺癌、结直
+于五脏气化，故精微衰少时，神失于承载与濡养， 肠癌等的发病率及死亡风险。慢性精神应激持续作
+出现心动神摇［5］。其二，气化失常介导了形神之 用于交感神经系统和下丘脑 垂体 肾上腺轴，导
+间的相互损伤，如 “忧恐忿怒伤气，气伤藏，病 致儿茶酚胺、糖皮质激素的分泌节律异常及释放增
+乃藏”( 《灵枢·寿夭刚柔》) ，“夏刺筋骨，气血 加，通过促血管生成、抑制抗肿瘤免疫功能、促炎
+症网络恶化等途径促进肿瘤发生［8］。以上研究亦
+上逆，令人善怒” ( 《素问·四时刺逆从论篇》) 。
+气在异常情志的扰动下，发生妄动继而戕害脏腑; 从现代医学角度表明心动神摇致情志失常是肿瘤发
+生的本源。
+亦在形体损伤的刺激下，运行逆乱继而扰乱情志。
+其三，心动神摇，致气形转化失司，如 “悲哀愁 2.2 神不御气是肿瘤形成之基
+《素问·气交变大论篇》云: “天地之动静，
+忧则心动，心动则五脏六腑皆摇” ( 《灵枢·口
+神明为之纪”，提示自然界万物生、长、化、收、
+问》) 。过激的情志活动扰乱心神，则神不御气，
+藏的生命规律均由神所主导。《素问·五常政大论
+气机失调: 或气化不及，或固摄无权，而致精微形
+篇》云: “根于中者，命曰神机”，说明神对生命
+质衰少; 或气机郁滞，或气化不利，精微形质变生
+规律的主导需要气的介导。神通过调控气机升降出
+水、湿、痰、瘀等病理产物，形成发病的内在基
+入，从而推动人体生命活动规律进行，并呈现出
+础。此所谓 “形气神相失”。
+生、长、壮、老、已的生命进程。形、气、神又有
+作为构成人体生命活动的基本要素，形、气、
+先天元神、元气、元精与后天识神、水谷精气之
+神中任何一方受到病邪侵扰或情志的耗伤，其余二
+别。《类经》云: “元神见则元气生，元气生则元
+者均可关联性地受损，届时机体出现形质损伤、气
+精产。”生命初始，元神调御元气，以驱动元精化
+化失常、心动神摇，从而导致疾病的发生。可见，
+生身形; 及至后天，摄食水谷产生精气，历练思维
+形气神相失是疾病发生的基本形式。
+意识产生识神; 赖于先后天相资，生命活动得以有
+2 形气神相失与肿瘤的发生
+序进行，而先天元神、元气是催化生命活动的本源。
+2.1 心动神摇是肿瘤形成之源 现代中医学认为，人体细胞分裂、分化、增殖
+心神作为精神机能，支配人对客观事物的认知
+及凋亡是神气推动生命进程的微观体现，故肿瘤最
+过程，并调控大脑认知活动中所产生的情绪变化。 主要的形成途径—细胞周期紊乱和失控性增殖，亦
+《灵枢·本脏》云: “志意和则精神专直，魂魄不 与神不御气密切相关［9］。 《素问·至真要大论篇》
+散，悔怒不起，五脏不受邪矣。”心神清明，安守 云: “始因气动而内有所成者，谓积聚癥瘕瘤气瘿
+其位，则认知合理，情绪波动处于机体适应范围之 起结核癫痫之类也。”后天识神动摇，常导致情志
+内，使得气机之调顺、脏腑之安和均得以维系，故 过激、欲望过度，从而扰乱元神; 元神恍乱，驱使
+神明气调而形健。心神为君， “主不明则十二官 元气发生妄动，继而扰乱元精化形的正常节律; 元
+危”，心动神摇，则易导致认知偏颇、情志反应过 精被过度催化，因其转化的速度和形态失去神气的
+激［6］，表现为悲忧思虑、暴喜暴怒等情绪的持久 有效控制，极易异化为癌毒，成为肿瘤的宿根。现
+刺激，始为情志不宁，继则扰乱脏腑气机、阻碍气 代研究表明，焦虑、抑郁等精神刺激可诱导肿瘤细
+化，或致人体精微耗散、正气虚损; 或致精血津液 胞干性，从而分化为瘤体内的多种细胞亚群，促进
+等精微物质布散失常，停聚为水湿痰瘀，日久酿生 肿瘤发生［10］，这与元神受扰、驱使妄动之气从而
+癌毒并留着于至虚之处，终致肿瘤。如 《济生方》 导致癌毒恣生的中医肿瘤发生的认识相符。因此，
+记载瘿瘤 “多因喜怒不节，忧思过度”， 《格致余 神不御气构成了肿瘤发生的根基。
+中医杂志2021年7月第62卷第14期 Journal of Traditional Chinese Medicine，2021，Vol．62，No．14 ·1199·
+2.3 气形转化失司是肿瘤形成之始 证，首要辨识肿瘤患者的形气神损伤情况，并据此
+气形转化是人体生命活动的基础环节。《素问· 遣方用药; 同时结合中医导引、气功、认知干预、
+五常政大论篇》云: “气始而生化，气散而有形， 五音调神和情志相胜等疗法来调节心神［13－14］，以
+气布而蕃育，气终而象变。”形由气化生而来，气 此达到形气神同调，实现对肿瘤的系统性整体性
+是驱动人体形成、发育、繁殖和衰老的原动力。脏 治疗。
+腑通过气机的升降出入行使功能，将摄纳的饮食水
+参考文献
+谷转化为能量，并以精、血、津、液等精微形质的
+［1］李皓月，杜松，李金霞，等．情志致病与恶性肿瘤［J］．中
+形式储存; 同时通过气机 “升清降浊”，将精微物
+国中医基础医学杂志，2020，26(3):312 314，320．
+质疏布于周身以供养形体，将代谢垃圾 “浊阴”
+［2］曹传东，唐农，胡跃强，等．基于系统自组织机制探讨中
+排出机体。气通过驱动精微物质间的转化，从而维 医治疗原理［J］．中华中医药杂志，2018，33(3):986
+持人体新陈代谢的动态平衡［11］，进而确保生命活 988．
+动的正常进行。 ［3］蒋璐，杜武勋，王智先，等．基于中医形、气、神理论探讨
+中医药愈病机理［J］． 中医杂志，2015，56( 6): 451
+《灵枢·寿夭刚柔》云: “形与气相任则寿，
+454．
+不相任则夭。”气形转化正常是机体健康的根本保
+［4］卢红蓉，于智敏，李海玉．病则形气神三者俱伤论［J］．
+证，若气形转化失司，则机体新陈代谢紊乱，表现
+辽宁中医杂志，2010，37(2):248 249．
+为气机逆乱，水谷精微不得正化而变生痰湿，精、
+［5］邵祺腾，王昊，张振华，等．中医心理学对情感过程的认
+血、津、液不得布散而滞化为浊邪，浊阴不得排泄 识［J］．中国中医基础医学杂志，2013，19(5):567 569．
+而蓄积为毒，痰、湿、浊、毒等留积，日久百病从 ［6］陆秀兰． 神观与未病前病态辨识［J］． 中医药学刊，
+生。气形转化失司形成的痰湿瘀毒环境是孵育肿瘤 2004，22(5):944 945．
+的温床，其不仅滋养癌毒萌生，并与癌毒搏结，持 ［7］WANG YH，LI JQ，SHI JF，et al． Depression and anxiety
+in relation to cancer incidence and mortality: a systematic
+续助长痰湿浊毒胶结之势，终致肿瘤形成。现代中
+review and meta-analysis of cohort studies［J］． Mol
+医学研究显示，气形转化失司与肿瘤代谢重编程存
+Psychiatry，2020，25(7):1487 1499．
+在密切关联，气机逆乱引起葡萄糖、脂质和氨基酸
+［8］SHIN KJ，LE YJ，YANNG YＲ，et al． Molecular mecha-
+等营养物质异常代谢，为肿瘤细胞的快速增殖提供 nismsunderlying psychological stress and cancer［J］． Curr
+充足的能量与物质基础［12］，可见气形转化失司是 Pharm Des，2016，22(16) :2389 2402．
+［9］杨永，王笑民．试论“心神”与癌毒［J］．中医杂志，2017，
+肿瘤形成的起始。
+58(1):76 78．
+综上所述，肿瘤的发生是形、气、神异常交联
+［10］SOＲＲENTINO G，ＲUGGEＲI N，ZANNINI A，et al． Glu-
+互动的恶性渐进过程。心动神摇、神不御气、气形
+cocorticoid receptor signalling activates YAP in breast
+转化失司是肿瘤发生的总体演变规律，但形、气、
+cancer［J］． NatureCommunications，2017，8:14073． doi:
+神之间的恶性转化可互为因果，而非单一的演化顺 10．1038/ncomms14073．
+序。如肺癌患者因长期吸烟吸入烟毒燥邪，首先煎 ［11］陈霞波，张业，周开，等．略论中医学“气化之道”［J］．
+中医杂志，2012，53(23):2057 2058．
+灼肺津，肺失濡润则气机宣降失常，水液精微气化
+［12］徐爽，刘立萍，李然．从“气化”论疏肝理脾法干预能量
+不及而变生肿瘤，肺癌的发生虽起于精微物质耗
+代谢重编程延缓肿瘤进程［J］．辽宁中医杂志，2021，48
+伤，但究其本源仍有外界刺激导致心神动摇，进而
+(3):56 58．
+诱导产生吸烟动机并导致成瘾行为。
+［13］许陶，陈乐，金春晖，等．八段锦对42 例胃肠道恶性肿
+3 小结 瘤术后康复期患者癌因性疲乏及生活质量的影响
+［J］．中医杂志，2020，61(10):881 885．
+肿瘤作为有形实体，其发生历经神的调御失
+［14］徐海燕，张黎丹，夏兴梅，等．五行音乐疗法对中晚期
+常、气化功能失调。对于肿瘤的治疗，既要攻其
+肿瘤患者负性心理及睡眠质量的影响［J］．中医杂志，
+形，又应重视调复神气功能; 而气化以心神调御为 2019，60(11):954 956．
+要，故调神是肿瘤治疗的关键环节。所以医者临 ( 下转第1204 页)
+·1204· 中医杂志2021年7月第62卷第14期 Journal of Traditional Chinese Medicine，2021，Vol．62，No．14
+［21］肖遵香．鲜药消渴汤治疗气阴两虚型2型糖尿病临床 分析［J］．中华中医药杂志，2019，34(12):5691 5695．
+观察［J］．糖尿病新世界，2019，22(8):76 77． ［26］彭勇，谭芳．鲜药研究的回顾与展望［J］． 首都医药，
+［22］钱春伟．柴达木枸杞鲜药汁对高脂血症患者肾阳虚证 2013，20(5):45 46．
+的疗效观察［D］．广州:暨南大学，2017． ［27］陈杨，康琪，瞿礼萍，等．道地中药材“地理标志产品”
+［23］李建生，何典鸿． 现代鲜药金龙胶囊对发热的作用 保护的实证分析与发展对策研究［J/OL］． 中草药．
+［J］．首都医药，2010，17(15):40 41． (2021 －03 －15) ［2021 －05 －19］． http: //kns． cnki．
+［24］国家药典委员会．中华人民共和国药典［M］．北京:中 net/kcms/detail/12．1108．Ｒ．20210315．0939．002．html．
+国医药科技出版社，2020． ［28］黄燕，郑贤固．中药的保鲜方法和贮藏技术［J］．中国
+［25］李艳，郭晖，苗明三．中药鲜用的药理作用及临床应用 现代中药，2012，14(7):44 48．
+Application，Existing Problems and Future Development of Fresh Chinese Herbal Medicine
+PENG Mengfan，TIAN Shuo，MIAO Jinxin，FU Yu，TIAN Dandan，ZHAO Mingming，MIAO Mingsan
+School of Pharmacy，Henan University of Chinese Medicine，Zhengzhou，450046
+ABSTＲACT Use of fresh herbs is a feature and special form of Chinese herbal medicine，and has been forming
+throughout the whole history of traditional Chinese medicine from the beginning． The major differences between fresh
+and dried herbal medicines are that fresh herbal medicines of cold and cool nature are cooler and more moisturing than
+dried ones; fresh herbal medicines of acrid aromatic nature have thicker flavor and stronger efficacy; the herbal juice
+is fresh and pure，and has better function of moistening dryness compared to dried ones． Through summarizing the
+clinical application of fresh herbal medicines and the research and development condition of related preparations，it
+has been found that the concepts of fresh and dried herbal medicines are confused，and there is lack of standard sys-
+tem and theoretical guidance when applying fresh herbal medicines． Therefore，it is suggested to develop related theo-
+ry and standard systems for application guidance，establish a supply chain，and make innovations on preservation
+technologies for fresh herbal medicines，thereby bringing forth new ideas for its progress mode and promoting its scale
+and long-term development．
+Keywords Chinese herbal medicines; fresh Chinese herbal medicine; dried Chinese herbal medicine; application of
+fresh herbal medicine
+(收稿日期: 2021－03－17; 修回日期: 2021－05－20)
+［编辑: 崔京艳］
+( 上接第1199 页)
+Discussion on Traditional Chinese Medicine Tumorigenesis from the Holism of Body，Qi and Spirit Concept
+WEI Mengling1，FU Xi1，WANG Yuting1，DU Lei1，XIAO Chong1，YAN Ｒan1，ZHENG Chuan1，2，YOU
+Fengming1，3
+1． Affiliated Hospital of Chengdu University of Traditional Chinese Medicine，Chengdu，610075; 2． Oncology Teaching and Ｒesearch
+Section，Chengdu University ofTraditionalChineseMedicine; 3． CancerInstituteofChengduUniversityofTraditionalChineseMedicine
+ABSTＲACT The holism of body，qi and spirit is the core theory for traditional Chinese medicine ( TCM) to under-
+stand life activities and disease evolution． When the pathological associations among body，qi and spirit were used to
+analyze the occurrence of tumors，it is found that restless heart and blurred spirit is the origin; spirit failing to circu-
+late qi lays the foundation; loss of control on qi-body transformation is the beginning，and body-constitution dissimila-
+tion is the result． Tumors gradually formulate when the abnormal cross-linking and interaction among body，qi，and
+spirit gets worse; therefore，the holism of body，qi and spirit concept should be followed to analyze the genesis of
+tumors，which can not only help construct the etiology and pathogenesis system of tumors in TCM，but provide guid-
+ance for syndrome differentiation and treatment of tumors．
+Keywords tumor; genesis; holism of body，qi and spirit
+(收稿日期: 2021－01－06; 修回日期: 2021－05－16)
+［编辑: 崔京艳］

@@ -1,0 +1,431 @@
+· · 中医杂志 年 月第 卷第 期 ， ， ，
+2032 2021 12 62 23 JournalofTraditionalChineseMedicine 2021 Vol.62 No.23
+： -
+DOI 10.13288/j.11 2166/r.2021.23.002
+基于“肠道菌群 胆汁酸互作”论结直肠腺瘤癌变
+-
+“土虚木郁”病机的生物学内涵
+高颖 ，王钧冬 ，肖冲 ，，严然 ，，由凤鸣 ，，曾进浩
+1 1 1 2 1 3 1 3 1✉
+成都中医药大学附属医院，四川省成都市金牛区十二桥路 号， ； 成都中医药大学肿瘤学教研室； 成都中医
+1. 39 610072 2. 3.
+药大学肿瘤研究所
+［摘要］ 肠道菌群与胆汁酸代谢的互作失衡与结直肠腺瘤癌变密切相关。基于中医理论及临床研究，发现
+“土虚木郁”是结直肠腺瘤癌变过程中的关键病机。结合现代医学及分子生物学文献，认为肠道菌群紊乱与
+中医“土虚”密切相关，胆汁酸分泌异常为“木郁”的微观体现，且在结直肠腺瘤癌变进程中，“肠道菌群-
+胆汁酸互作”关系失衡与中医“土虚木郁”相契合。从“肠道菌群-胆汁酸互作”角度探讨结直肠腺瘤癌变
+“土虚木郁”的生物学内涵，对于研究“土虚木郁”的病机实质及其代表方药对阻止结直肠腺瘤癌变的作用
+具有重要意义。
+［关键词］ 结直肠腺瘤；癌变；胆汁酸；肠道菌群；土虚木郁
+结直肠腺瘤已被公认为结直肠癌的癌前病变， 胆汁酸的分泌在机体脂质消化吸收、脂质代谢、葡
+为最常见的大肠息肉病之一，其发生率约占大肠息 萄糖稳态、能量消耗、肠道运动和细菌生长、炎症
+肉病变的 ［ 1］。相关资料显示， ～ 的结 反应及信号调控等方面发挥着重要调节作用［ 5］。胆
+32% 85% 90%
+直肠癌可由腺瘤进展而来［ 2- 3］。目前对结直肠腺瘤 汁酸循环与组成的异常与炎症性肠病、肠腺瘤和结
+的治疗主要以内镜手术为主，但术后患者腹痛、腹 直肠癌等密切相关［］。当过多的胆汁酸聚集在肠
+6
+泻、便秘、便血等症状并无明显改善，且单纯的内 道，则对肠上皮细胞有毒性作用［］。胆汁酸可通过
+7
+镜手术治疗并不能降低复发率及癌变率［ 4］。中医药
+多种机制加速结直肠癌进展，包括损伤上皮细胞，
+在预防结直肠腺瘤复发及癌变方面有一定优势，但 促进癌细胞增殖、侵袭和诱导凋亡抵抗等［］。研
+8
+结直肠腺瘤癌变的中医研究缺少对关键病机的统一 究［］显示，结直肠癌患者粪便中胆汁酸浓度较健
+9
+认识和准确表述，不利于本病的针对性治疗。基于
+康人明显增高。此外，动物实验也证实，粪便中胆
+中医经典文献梳理及临床研究，结合现代医学及分
+汁酸浓度与结直肠癌发生率呈正相关［ ］，胆汁酸
+10
+子生物学研究成果，我们认为结直肠腺瘤癌变的关
+可导致肠腺瘤小鼠腺瘤数量和体积增加，并可诱导
+键病理过程与“土虚木郁”有互通之处。本文从肠
+肠道低度炎症微环境，破坏肠黏膜屏障，使其通透
+道菌群与胆汁酸互作角度初步探讨结直肠腺瘤癌变
+性增加，促进肠腺瘤癌变［］。因此，肠道中高浓度胆
+7
+“土虚木郁”病机的生物学内涵，以期为结直肠腺
+汁酸的持续状态是结直肠腺瘤癌变的促进因子［］。
+11
+瘤的中医治疗提供新的思路。
+肠道菌群失调与结直肠腺瘤癌变
+1.2
+肠道菌群—胆汁酸互作在结直肠腺瘤癌变中的
+近年来，肠道菌群在消化系统疾病中的作用受
+1
+作用 到越来越多的重视，研究［ - ］表明，肠道菌群失
+1213
+胆汁酸代谢异常与结直肠腺瘤癌变 调与结直肠腺瘤及结直肠癌的发生发展密切相关。
+1.1
+胆汁酸是胆汁的重要组成成分，生理情况下， 临床研究发现，正常人群、结肠腺瘤患者、结肠癌
+患者体内肠道菌群的数量及结构差异较大，结肠腺
+基金项目：国家自然科学基金（ ）；四川省中医药重点学科
+82074315 瘤及结肠癌患者大肠杆菌和粪肠球菌数量显著高于
+建设项目（ ）
+2100601
+通讯作者： 正常人群，而双歧杆菌、乳杆菌及类杆菌数量相比
+zengjinhao0018@126.com
+中医杂志 年 月第 卷第 期 ， ， ， · ·
+2021 12 62 23 JournalofTraditionalChineseMedicine 2021 Vol.62 No.23 2033
+正常人群明显减少［ ］。动物实验［ ］表明，在结肠 可通过 信号通路影响肠道菌群组成。 在
+14 15
+FXR FXR
+腺瘤组织中，厌氧链球菌与肠上皮细胞 和 胆汁酸与肠道菌群的互相调节中发挥着重要作用。
+TLR2
+相互作用，可提高活性氧水平并促进胆固醇 基因敲除小鼠回肠中细菌数量升高，肠屏障受
+TLR4 FXR
+合成和细胞增殖，从而导致腺瘤癌变。此外，使用 损［ ］， 激活剂则可抑制这一效应［ ］。因此，
+28 29
+FXR
+健康人和结直肠癌患者的粪菌混合物分别喂养低菌 结直肠腺瘤癌变的关键在于胆汁酸与肠道菌群的互
+和无菌小鼠后，结果显示结直肠癌粪菌移植后可激 作关系被破坏，抑制 功能，引发肠道干细胞
+FXR
+活肠黏膜免疫并诱发炎症反应，进而促进上皮细胞 异常增殖，从而促进结直肠腺瘤癌变［ ］。
+30
+增殖和癌变［ ］。肠道菌群是肠道黏膜的重要保护
+16 “土虚木郁”为结直肠腺瘤癌变的关键病机
+2
+屏障，对肠道黏膜起着免疫调节作用，肠道菌群失调
+脾胃虚弱即土虚是结直肠腺瘤发病的主要原
+可能破坏肠道屏障功能，导致胆汁酸代谢紊乱，进而
+因，正如《脾胃论》记载：“胃虚则脏腑经络皆无
+引发肠道黏膜稳态失衡，促进结直肠腺瘤癌变［］。
+17
+以受气而倶病……气血瘀滞，脉络壅塞，而发息
+肠道菌群与胆汁酸代谢的互作关系失衡与结
+1.3 肉”。朱萍等［ 31］通过分析认为，肠息肉患者中医证
+直肠腺瘤癌变密切相关
+型以脾胃虚弱证最多见，约占 。脾胃受损，
+肠道菌群与胆汁酸代谢密切相关，肠道菌群与 41.21%
+运化失常，水湿、痰浊、膏脂等邪壅盛，发为“土
+胆汁酸的互作关系不仅体现在菌群对胆汁酸代谢的
+虚”。肝脾在生理上关系密切，脾气健运，水谷精
+影响，胆汁酸也对肠道菌群的结构和功能发挥重要
+微充足，才能不断地输送和滋养于肝，肝之疏泄功
+作用［ - ］。一方面，肠道菌群可以调控胆汁酸的合
+1819
+能才能得以正常发挥。病理状态下肝脾易相互影
+成、重吸收和代谢。无菌动物中，粪便中胆汁酸排
+响，若脾土已虚，则肝木易乘之，如张景岳云：
+出减少，胆囊和小肠中总胆汁酸池显著增大［ ］；
+20
+“肝邪之见，本由脾胃之虚，使脾胃不虚，则肝木
+如果对无菌动物进行有菌化，则可以显著降低动物
+虽强，必无乘脾之患”［ ］。脾胃土衰，肝木自盛，
+32
+肝脏、胆囊和盲肠中总胆汁酸的含量［ ］。 等［ ］
+21 22
+Li 肝之气机失于疏泄，则为木郁。肝疏泄过度，气机
+给小鼠灌胃强抗氧化剂 羟基 ，，， 四甲基哌
+4⁃ ⁃2 2 6 6⁃ 升发过度，使局部腺瘤所在之处能量代谢异常加
+啶基 氧化物（ ）后发现，小鼠肠道嗜酸
+⁃N⁃ Tempol 剧，诱导肠道干细胞不断增殖分化、推动其恶性侵
+乳杆菌数量显著下降，导致厚壁菌属和拟杆菌属菌
+袭转移，最终发为肠癌［ ］。因此，“土虚木郁”为
+33
+群比例失调，从而抑制胆汁酸受体（ ）表达，
+FXR 诱发腺瘤癌变的关键病机。
+导致胆汁酸的分泌显著上升。研究发现，结直肠癌
+“肠道菌群 胆汁酸互作”关系失衡与中医学
+患者菌群失调主要表现为拟杆菌门减少，厚壁菌门
+3 -
+“土虚木郁”密切相关
+及核梭杆菌增多，而核梭杆菌是一类促进结直肠肿
+瘤发生的细菌，可编码初级胆汁酸形成次级胆汁酸 肠道菌群紊乱是土虚的生物学基础
+3.1
+的酶的基因表达增强［ ］。胆酸在肠道微生物作用 中医学认为，肠道菌群平衡与脾土的生理功能
+23
+下形成脱氧胆酸，脱氧胆酸可诱导肠道微生物失 密切相关，肠道菌群失调与脾失健运互为因
+调，降低短链脂肪酸含量，加速肠腺瘤-腺癌序列 果［ 34- 35］。肠道菌群在消化吸收及免疫防御等方面反
+的表达，导致肠屏障功能破坏和肠道肿瘤［ 24］。 映了中医学“脾土”的生理功能［ 36］，脾土功能正
+另一方面，胆汁酸可以促进代谢胆汁酸的细菌 常与否和肠道菌群结构的稳态直接相关。肠道内环
+生长，同时抑制对胆汁酸敏感的细菌的生长，从而 境的紊乱可能引起肠道菌群结构及功能的失调，导
+起到维持菌群稳态、抑制小肠内细菌过度生长、保 致脘腹胀满、水谷不化、食少纳呆、大便稀溏等脾
+护肠屏障功能和抑制细菌移位的作用［ 25］。研究［ 26］ 虚表现［ 37］。一项研究通过构建老年脾虚患者与同
+表明，低浓度的脱氧胆酸能降低结肠组织的跨上皮 龄健康人的粪便肠道菌群变性梯度凝胶电泳
+阻力，使肠上皮通透性增加，从而增加结肠组织对 （ ）指纹图谱，结果发现脾虚患者肠道菌群
+DGGE
+细菌的吸收；胆汁在小肠内吸收减少，导致进入结 结构与健康人群具有显著差异［ 38］。另有研究表明，
+肠后游离胆汁酸增加，胆汁酸浓度升高，抑制肠道 双歧杆菌、乳杆菌、拟杆菌、消化球菌等厌氧菌在
+有益菌，造成肠道内菌群失调。研究［ ］发现， 脾虚患者肠道中含量明显较非脾虚证患者低，而肠
+27
+基因缺陷型小鼠的肠道菌群特征是厚壁菌属数 杆菌及梭菌含量偏高，且脾虚患者的双歧杆菌 肠
+FXR /
+量显著上升，而拟杆菌属数量显著下降，这是由于 杆菌比值低于正常人［ 39］；脾虚湿盛泄泻患者的粪
+基因缺陷导致胆汁酸的分泌增加，提示胆汁酸 便中双歧杆菌数量较健康人明显减少，存在显著的
+FXR
+· · 中医杂志 年 月第 卷第 期 ， ， ，
+2034 2021 12 62 23 JournalofTraditionalChineseMedicine 2021 Vol.62 No.23
+肠道微生态失调［ ］。动物实验应用肠杆菌基因间 契合。因此，肠道菌群-胆汁酸互作是对中医学肝
+40
+重复一致序列聚合酶链式反应技术（ - ） （木）脾（土）相关理论的丰富和补充。
+ERIC PCR
+发现，脾气虚证大鼠肠道菌群 - 指纹图谱 肠道菌群失调可影响胆汁酸的合成以及代谢等
+ERIC PCR
+较正常大鼠显著改变，多样性指数下降，表明其肠 过程，胆汁酸水平异常亦可导致肠道菌群失调。肠
+道微生态平衡遭到破坏后菌群失调，即脾气虚证直 道菌群失调可引起肠道厌氧菌产生一系列的代谢
+接影响肠道菌群的平衡［ 41］。其他动物实验也证实 酶，这些酶作用于底物胆汁酸，产生主要包括硫化
+了脾虚小鼠肠道内的双歧杆菌、乳杆菌数量均下 氢、活性氧、次级胆汁酸等致癌物质，引发结直肠
+降，存在明显的菌群比例失调［ 42］。以上研究结果 腺瘤癌变［ 24］。研究［ 6， 47］发现，结肠癌患者粪便中
+均为脾虚与肠道菌群紊乱相关的生物学实质提供了 -脱羟基梭菌的浓度异常升高，高脂饮食下，梭
+7α
+一定科学依据。 菌属通过 -脱羟基作用，产生次级胆汁酸，使次
+7α
+胆汁酸分泌异常为木郁的微观体现 级胆汁酸水平升高，进而促进肠腺瘤癌变。另有研
+3.2
+胆汁酸作为胆汁的主要成分，是消化液的重要 究［ ］表明，胆汁酸分泌异常可通过抑制肠球菌以
+48
+组分，其生理功能主要包括影响胆汁分泌、促进肠 增强解没食子酸链球菌素的活性，并通过取代共生
+道对脂类物质的吸收。中医学认为，胆汁乃肝之余 的肠球菌促进解没食子酸链球菌定植，影响肠道菌
+气所化，其分泌和排泄受肝气疏泄功能的影响，如 群平衡，从而促进肠道上皮细胞增殖，导致结直肠
+《脉诀刊误 卷上》所云：“胆之精气，则因肝之余 癌的发生。结直肠腺瘤本有脾虚之病理基础，脾土
+•
+气溢入于胆……其汁清净”［ 43］。相关研究发现，胆 亏虚不能运化水谷，则水反为湿，谷反为滞，精微
+汁酸的异常分泌与肝气失于疏泄（即“木郁”）密 物质失于输布，湿浊聚积，阻滞气血，致使肝失疏
+切相关，疏肝理气类中药可有效调控胆汁酸分泌与 泄，发为“木郁”，木郁又可进一步加重“土虚”，
+排泄，改善胆汁酸代谢。例如，具有疏肝利胆功效 肠道菌群-胆汁酸互作失衡形成恶性循环，终致
+的小柴胡汤加减方可促进胆汁排泄，降低血清甘氨 癌变。
+鹅脱氧胆酸、牛磺鹅脱氧胆酸浓度，表明小柴胡汤 综上所述，肠道菌群失调是脾虚的重要生物学
+加减方对患者血清胆汁酸有一定的调控作用［ 44］。
+基础，胆汁酸分泌异常为木郁的微观体现。胆汁酸
+动物实验也表明，茵陈蒿汤可显著降低牛磺酸结合 与肠道菌群的互作失衡，进而引发肠道干细胞异常
+型胆汁酸的浓度和比例，特别是降低血清中甘氨鹅 增殖，促进结直肠腺瘤癌变的病理过程，与“土虚
+脱氧胆酸、牛磺鹅去氧胆酸等毒性胆汁酸的浓度，
+木郁”中医病机相契合。
+同时可上调 表达［ ］。 是神经功能和行为
+45
+FXR FXR 结语
+的重要调节器之一，可参与调控中枢神经系统中神 4
+既病防变是中医药防治肠腺瘤癌变的契机。肠
+经递质稳态平衡，进而影响动物的情感和社交行
+腺瘤之病本有脾胃受损之病理基础，脾虚运化失
+为；若血液中胆汁酸浓度过高，抑制 表达，
+FXR
+常，中土虚衰，土不及而木乘之，肝木进一步克伐
+可产生一定的神经毒性，从而影响情绪［ ］。这与
+46
+脾土，最终肝气郁滞愈重，脾虚愈重，不能代谢浊
+“木郁”之肝失疏泄、情志不畅的表现相符。因此，
+气，形成恶性循环，促进了结直肠腺瘤癌变。从中
+肝的疏泄作用与胆汁的分泌排泄关系密切。肝气失
+医学的角度可以认为“土虚木郁”是结直肠腺瘤癌
+疏，胆腑气机失于通降，胆汁排泄不畅，胆气郁遏
+变发生之源，故可根据“土虚木郁”的根本病机为
+而失清净，导致胆汁淤积，胆汁酸分泌异常，是
+结直肠腺瘤癌变的治疗提供理论依据，以“扶土”
+“木郁”的微观体现。
+“肠道菌群-胆汁酸互作”失衡与“土虚木 为主，加以“抑木”。乌梅丸、痛泻要方等扶土抑
+3.3
+木之方正是基于上述病机，使脾气健运，肝气和
+郁”契合
+畅，共治脾土与肝木，契合结直肠腺瘤癌变“土虚
+胆汁酸代谢与肠道菌群的相互作用在肠道的内
+木郁”的病机特点，可为临床治疗结直肠腺瘤癌变
+环境稳态调节中至关重要。一方面，胆汁酸的摄入
+提供新思路和突破点。
+可影响肠道菌群的构成及相关代谢产物的产量；另
+一方面，肠道菌群中不同功能的菌株也可作用于胆 参考文献
+汁酸代谢的各个阶段并最终影响胆汁酸的构成。因
+［］ ， ， ，
+1 NEARY PM SCHWARTZBERG DM BORA CT et al.
+此，胆汁酸与肠道菌群之间存在密切的双向调控关
+Aspectsofthenaturalhistoryofsessileserratedadenomas/
+系，这与肝脾在生理上相互促进、相互影响的关系 ：
+polyps risk indicators for carcinogenesis in the colorectal
+中医杂志 年 月第 卷第 期 ， ， ， · ·
+2021 12 62 23 JournalofTraditionalChineseMedicine 2021 Vol.62 No.23 2035
+？［］ ， ， （ ）： - ［ ］ ， ， ，
+mucosa J . Dis Colon Rectum 2018 61 12 1380 15 TSOIH CHUESH ZHANGX etal. Peptostreptococ⁃
+1385. cus anaerobius induces intracellular cholesterol biosyn⁃
+［］房静远，时永全，陈萦晅，等 中国结直肠癌预防共识意
+2 . thesis in colon cells to induce proliferation and causes
+见（ 年，上海）［］ 胃肠病学， ， （ ）： ［］ ， ， （）：
+2016 J . 2016 21 11 dysplasiainmice J . Gastroenterology 2017 152 6
+- -
+668 686. 1419 1433.
+［］ ， ， ， - ［ ］ ， ， ，
+3 LEE JK JENSEN CD LEVIN TR et al. Long term risk 16 WONGSH ZHAOLY ZHANGX etal. Gavageoffe⁃
+of colorectal cancer and related death after adenoma calsamplesfrompatientswithcolorectalcancerpromotes
+， - ［］ -
+removal in a large community based population J . intestinal carcinogenesis in germ free and conventional
+， ， （）： - ［］ ， ， （）： -
+Gastroenterology 2020 158 4 884 894. mice J . Gastroenterology 2017 153 6 1621 1633.
+［］ ， ， ， ［ ］李玉丽，肖嫩群，谭周进 代谢性疾病的肠道菌群相关
+4 FACCIORUSSO A MASO MD SERVIDDIO G et al. 17 .
+研究进展［］ 世界华人消化杂志， ， （ ）：
+Development and validation of a risk score for advanced J . 2020 28 23
+-
+colorectal adenoma recurrence after endoscopic resection 1192 1199.
+［］ ， ， （ ）： - ［ ］ ， ， ，
+J . World J Gastroenterology 2016 22 26 6049 18 WAHLSTRÖMA SAYINSI MARSCHALLHU etal.
+6056. Intestinalcrosstalkbetweenbileacidsandmicrobiotaand
+［ ］ ， ， ， ［］ ， ，
+5 TICHO AL MALHOTRA P DUDEJA PK et al. In⁃ its impact on host metabolism J . Cell Metab 2016 24
+［］ （）： -
+testinalabsorptionofbileacidsinhealthanddisease J . 1 41 50.
+， ，（）： - ［ ］ ， ， ，
+ComprPhysiol 2019 10 1 21 56. 19 TIAN Y GUI W KOO I etal. The microbiome modu⁃
+［］ ， ， - ［］ ， ，
+6 JIA W XIE GX JIA WP. Bile acid microbiota crosstalk lating activity of bile acids J . Gut Microbes 2020 11
+［］ （）： -
+in gastrointestinal inflammation and carcinogenesis J . 4 979 996.
+， ，（）： - ． ［ ］ ， ， ，
+NatRevGastroenterolHepatol 2018 15 2 111 128 20 SELWYN FP CSANAKY IL ZHANG YC et al.
+［］ ， ， ，
+7 LIU L DONG WX WANG SN et al. Deoxycholic acid Importanceoflargeintestineinregulatingbileacidsand
+- - ［］
+disruptstheintestinalmucosalbarrierandpromotesintesti⁃ glucagon like peptide 1 in germfree mice J . Drug
+［］ ， ，（ ）： - ， ， （ ）： - ．
+nal tumorigenesis J . Food Funct 2018 9 11 5588 MetabDispos 2015 43 10 1544 1556
+［ ］ ， - ，
+5597. 21 WAHLSTROM A KOVATCHEVA DATCHARY P
+［］ ， ， ， ，
+8 DONGWX LIUL DOUY etal. Deoxycholicacidacti⁃ STAHLMAN M et al. Induction of farnesoid X receptor
+-
+vates epidermal growth factor receptor and promotes intes⁃ signaling in germ free mice colonized with a human mi⁃
+- ［］ ， ， （）： - ．
+tinalcarcinogenesisbyADAM17 dependentligandrelease crobiota J . JLipidRes 2017 58 2 412 419
+［］ ， ，（）： - ［ ］ ， ， ，
+J .JCellMolMed 2018 22 9 4263 4273. 22 LI F JIANG CT KRAUSZ KW et al. Microbiome
+［］ ， ， - ，
+9 KÜHN T STEPIEN M LÓPEZ NOGUEROLES M et remodelling leads to inhibition of intestinal farnesoid X
+［］
+al. Prediagnostic plasma bile acid levels and colon cancer receptor signalling and decreased obesity J . Nat
+： ［］ ， ， ， ，（）： -
+risk a prospective study J . J Natl Cancer Inst 2020 Commun 2013 4 1 886 895.
+（）： - ［ ］ ， ， ， -
+112 5 516 524. 23 WIRBEL J PYL PT KARTAL E et al. Meta analysis
+［ ］ ， ， ， -
+10 ZENG HW UMAR S RUST B et al. Secondary bile offecalmetage nomes reveals globalmicrobialsignatures
+： ［］ ， ，
+acids and short chain fatty acids in the colon a focus on thatarespecificforcolorectalcancer J .NatMed 2019
+， ， ， （）： -
+colonic microbiome cell proliferation inflammation 25 4 679 689.
+［］ ， ， （）： ［ ］ ， ， ，
+andcancer J . IntJMolSci 2019 20 5 1214. 24 WANG SN DONG WX LIU L et al. Interplay be⁃
+［ ］ ， ，
+11 YANG J YU J. The association of diet gut microbiota tween bile acids and the gut microbiota promotes intesti⁃
+： ［］ ， ，（）： -
+andcolorectalcancer whatweeatmayimplywhatweget nalcarcinogenesis J .MolCarcinog 2019 58 7 1155
+［］ ， ，（）： -
+J .ProteinCell 2018 9 5 474 487. 1167.
+［ ］ ， ， ， ［ ］ ， ，
+12 KIM M VOGTMANN E AHLQUIST DA et al. Fecal 25 DEVKOTA S CHANG EB. Interactions between diet
+， ，
+metabolomic signatures in colorectal adenoma patients bile acid metabolism gut microbiota and inflammatory
+［］ ， ，（）： - ．
+are associated with gut microbiota and early events of boweldiseases J . DigDis 2015 33 3 351 356
+［］ ， ， （）： ［ ］ ， ， ， -
+colorectalcancerpathogenesis J . mBio 2020 11 1 26 XU MQ CEN MS SHEN YQ et al. Deoxycholic acid
+-
+e03186 19. inducedgutdysbiosisdisruptsbileacidenterohepaticcir⁃
+［ ］ ， - ， ， ［］
+13 SAUS E IRAOLA GUZMÁN S WILLIS JR et al. Mi⁃ culation and promotes intestinal inflammation J . Dig
+： ， ， （）： -
+crobiome and colorectal cancer roles in carcinogenesis DisSci 2021 66 2 568 576.
+［］ ， ， ： ［ ］ ， ， ，
+and clinical potential J . Mol Aspects Med 2019 69 27 PARSEUSA SOMMERN SOMMERF etal. Microbi⁃
+- ： - ［］
+93 106.doi 10.1016/j.mam.2019.05.001. ota induced obesity requires farnesoid X receptor J .
+［ ］孟宪红，刘铁夫，刘平，等 结肠癌与结肠腺瘤患者常 ， ，（）： -
+14 . Gut 2017 66 3 429 437.
+见肠道菌群数量比较［］ 山东医药， ， （ ）： ［ ］ ， ， ，
+J . 2016 56 13 28 GONZALEZ F J JIANG CT XIE C et al. Intestinal
+-
+52 54. farnesoid X receptor signaling modulates metabolic dis⁃
+· · 中医杂志 年 月第 卷第 期 ， ， ，
+2036 2021 12 62 23 JournalofTraditionalChineseMedicine 2021 Vol.62 No.23
+［］ ， ， （）： - 志， ， （ ）： -
+ease J . DigDis 2017 35 3 178 184. 2010 25 10 1566 1569.
+［ ］ ， - ， ， ［ ］陈彬，梁芳，袁旭，等 健脾解毒方加减对脾气亏虚证
+29 GADALETA RM GARCIA IRIGOYEN O Cariello M 39 .
+晚期结直肠癌化疗患者肠道菌群及免疫功能的影响
+etal. Fibroblastgrowthfactor19modulatesintestinalmi⁃
+［］中医杂志， ，（）： -
+crobiota and inflammation in presence of farnesoid X re⁃ J . 2020 61 5 423 427.
+［］ ， ， ： ［ ］叶惠珍，黄水霞，张丽霞 中药健脾渗湿汤对脾虚湿盛
+ceptor J . EBioMedicine 2020 54 102719. 10.1016/ 40 .
+泄泻患者肠道微生态及舌象变化的影响［］ 中国民
+j.ebiom.2020.102719. J .
+［ ］ ， ， ， 间疗法， ， （）： -
+30 MELOF DS KURTOVA AV HARNOSS JM et al. A 2020 28 9 55 58.
++ ［ ］王瑞君 白术和四君子汤复方活性多糖的筛选，结构
+distinctroleforLgr5 stemcellsinprimaryandmetastatic 41 .
+［］ ， ， （ ）： - 表征及体外胃肠代谢研究［ ］ 上海：上海交通大学，
+coloncancer J .Nature 2017 543 7647 676 680. D .
+［ ］朱萍，宋雯，赵梁，等 大肠息肉中医病证与 、
+31 . VEGF 2017.
+、 表达的相关性［］中国中西医结合消化杂 ［ ］刘佩沂，赖岳晓，田素英 金番止泻胶囊对脾虚小鼠肠
+KDR MVD J . 42 .
+志， ，（）： - 道菌群的影响及体外抗菌作用［］ 中国中医基础医
+2013 21 5 229 233. J .
+［ ］张介宾 景岳全书［ ］ 北京：人民卫生出版社， 学杂志， ，（）： -
+32 . M . 2017 23 7 937 938.
+： ［ ］戴起宗 脉诀刊误［ ］北京：中国书店， ：
+1991 112. 43 . M . 1986 10.
+［ ］于鹏龙，张宏方，于东波，等 试论肿瘤微环境对中医 ［ ］李杰 小柴胡汤加减方对胆道术后脂餐饮食下血清中
+33 . 44 .
+“癌毒”学说的认知意义［］ 现代中医药， ， 胆汁酸影响的临床研究［ ］ 南京：南京中医药大学，
+J . 2016 36 D .
+（）： -
+1 47 49. 2016.
+［ ］郑昊龙，陈丝，宋囡，等 脾虚模型大鼠肠道菌群分布 ［ ］刘馨烛 基于 探讨茵陈蒿汤调控非酒精性脂肪性
+34 . 45 . FXR
+及时效性研究［］ 中医杂志， ， （ ）： - 肝病合并胆汁淤积小鼠胆汁酸和脂肪代谢效应机制研
+J . 2020 61 14 1262
+究［ ］上海：上海中医药大学，
+1267. D . 2019.
+［ ］封慧，朱欣轶，王长松 健脾中药对肠道微生态作用机 ［ ］曹秦，黄菲，王婷婷，等 法尼醇 受体基因缺失对雌
+35 . 46 . X
+制研究进展［］中国中医药信息杂志， ， （ ）： 性小鼠神经行为及神经传递系统的影响［］ 中国药
+J . 2018 25 10 J .
+- 理学通报， ，（）： -
+137 140. 2015 31 4 560 564.
+［ ］冯文林，伍海涛 从肠道菌群探讨多种疾病从脾论治 ［ ］ ， ， ，
+36 . 47 NGUYEN TT UNG TT KIM NH et al. Role of bile
+的机理［］吉林中医药， ，（ ）： - ［］ ，
+J . 2018 38 10 1124 1127. acids in colon carcinogenesis J . World J Clin Cases
+［ ］陈晓辉，杨相振，李耀洋，等 基于“肠道菌群-肿瘤微 ，（ ）： -
+37 . 2018 6 13 577 588.
+环境”探讨脾虚对肿瘤形成的影响［］ 时珍国医国 ［ ］ ， ， ，
+J . 48 AYMERIC L DONNADIEU F MULET C et al.
+药， ，（）： -
+2020 31 7 1672 1674. Colorectal cancer specific condition promote streptococ⁃
+［ ］刘佳，彭颖，张硕颖，等 老年脾虚患者肠道菌群 ［］
+38 . cus gallolyticus gut colonization J . Proc Natl Acad Sci
+变性梯度凝胶电泳分析［］ 中华中医药杂 ， ， （）： -
+16SrDNA J . USA 2018 115 2 283 291.
+The Biological Connotation of “Earth Deficiency and Wood Constraint” in Colorectal Adenoma Cancera⁃
+tionbasedonIntestinalFlora-bileAcidInteraction
+GAO Ying1，WANG Jundong1，XIAO Chong1， 2，YAN Ran1， 3，YOU Fengming1， 3，ZENG Jinhao1
+， ， ； ，
+1. Affiliated Hospital of Chengdu University of Traditional Chinese Medicine Chengdu 610072 2. Department of Oncology
+； ，
+Chengdu University of Traditional Chinese Medicine 3. Tumor Research Institute Chengdu University of Traditional Chinese
+Medicine
+ABSTRACT
+The interaction imbalance between the intestinal flora and bile acid metabolism is closely related to
+（ ）
+the canceration of colorectal adenoma. Based on the traditional Chinese medicine TCM theories and the clinical
+， “ ”
+researches it is found that earch deficiency and wood constraint is the key pathogenesis of colorectal adenoma
+，
+canceration. According to the modern medical and molecular biological literature the disturbance of intestinal flora
+“ ” ，
+iscloselyrelatedtothe earthdeficiency inTCM andabnormalsecretionofbileacidisamicroscopicmanifesta⁃
+“ ”； ，
+tion of wood constraint simultaneously the interaction imbalance between intestinal flora and bile acid is con⁃
+“ ” “
+sistent with the earth deficiency and wood constraint . By exploring the biological connotation of earth defi⁃
+” “ -
+ciency and wood constraint in colorectal adenoma canceration from the perspective of intestinal flora bile acid in⁃
+”， “
+teraction this paper provides important references for studying the root pathogenesis of earth deficiency and
+”
+wood constraint and the effects of the representative prescriptions on preventing colorectal adenoma from becoming
+cancerous.
+Keywords ； ； ； ；
+colorectaladenoma canceration bileacid intestinalflora earthdeficiencyandwoodconstraint
+（收稿日期： ；修回日期： ）
+2021-02-08 2021-07-19
+［编辑：果 彤，贾维娜］

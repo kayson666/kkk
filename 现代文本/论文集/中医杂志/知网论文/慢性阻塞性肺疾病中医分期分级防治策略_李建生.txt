@@ -1,0 +1,277 @@
+中医杂志2019年11月第60卷第22期 Journal of Traditional Chinese Medicine，2019，Vol．60，No．22 ·1895·
+DOI:10．13288/j．11-2166/r．2019．22．002
+慢性阻塞性肺疾病中医分期分级防治策略
+李建生1，2* ，余学庆1，2
+(1. 河南中医药大学呼吸疾病诊疗与新药研发河南省协同创新中心/河南省中医药防治呼吸病重点实验室，河南省郑州市郑东
+新区金水东路156号，450046; 2. 河南中医药大学第一附属医院)
+［摘要］ 慢性阻塞性肺疾病 ( COPD) 的演变呈渐进式过程，围绕COPD不同阶段疾病特点和关键环节，采
+取分期、分级的防治策略与方法，可充分发挥中医药优势并提高临床疗效。在系统分析COPD分期、分级的
+临床特征与防治目标及中医病机与证候规律的基础上，提出中医药防治 COPD 分期、分级的防治策略与目
+标。1) 根据疾病分期: 稳定期的防治策略与目标是缓解症状、预防疾病进展、降低急性加重发生的风险，
+治疗应以 “缓则治其本”为原则，法宜扶正 ( 补肺、健脾、益肾) 为主，佐以化痰、活血; 急性加重期重
+在使本次急性加重的影响最小化、减轻临床症状、降低死亡风险，治疗应遵 “急则治其标”原则，法宜清
+化宣降为主，包括清热化痰、燥湿化痰、温化寒饮、活血化瘀、宣降肺气等; 急性加重危险窗期重在防止再
+次急性加重的发生、促进恢复进入稳定期，治疗当祛邪 ( 化痰、活血) 扶正 ( 补益肺气、补肺健脾、补益
+肺肾等) 并重。2) 根据肺功能 ( 气流受限严重程度) 分级: GOLD 1、2 级COPD患者重在保护肺功能、延
+缓疾病进展，治疗以扶正 ( 补肺、健脾辅以益肾) 为主，佐以化痰、活血; GOLD 3、4 级患者重在减少急
+性加重、提高生存质量，治疗宜扶正 ( 补肺、益肾辅以健脾) 为主，佐以化痰、活血; 晚期患者应注重合
+并疾病的防治、降低死亡风险、提高生存质量，尤其要注意降低慢性呼吸衰竭病死率，治疗应以益气、活
+血、化痰为主。
+［关键词］慢性阻塞性肺疾病; 中医防治策略; 分期防治; 分级防治
+慢性阻塞性肺疾病 ( chronic obstructive pulmo- 征，COPD临床分为稳定期和急性加重期; 依据肺
+nary disease，COPD) 具有患病率、病死率、致残 功能评估气流受限的严重程度，分为GOLD ( global
+率高的特点［1］，为全球四大慢性疾病之一。我国 initiative for chronic obstructive lung disease) 1 ～4 级
+40 岁以上人群患病率为13.7%，有近1 亿患者［2］， ( 即肺功能1 ～4 级) 。按照 GOLD 推荐意见［1］，患
+居我国疾病死亡原因的第三位［3］，以伤残调整生
+者的治疗用药需以初始风险评估结果作为指导。初
+命年衡量，其疾病负担已居我国疾病负担第二 始评估是在综合评估患者的症状、气流受限程度即
+位［4］。中医药防治 COPD 具有较好的疗效和优势。
+肺功能分级、急性加重发生风险、合并症基础上，
+围绕COPD不同阶段的疾病特点和关键环节，采取
+依据症状、急性加重发生风险分为 A、B、C、D
+分期分级治疗的防治策略与方法，对于充分发挥中
+4 个等级，并提出有关 COPD 的6 个防治目标，即
+医药优势、提高临床疗效具有实际意义。
+缓解症状、提高活动耐力、改善健康状况、预防疾
+1 COPD分期分级中医防治策略的提出 病进展、预防和治疗急性加重、降低死亡率。针对
+1.1 COPD不同分期、分级的特征与防治目标不同 COPD临床不同分期、不同分级和风险评估，制定
+COPD疾病演变呈渐进式过程，患者气流持续 不同的防治目标并采取相应治疗措施，始终是国际
+受限、肺功能进行性下降、反复急性加重导致疾病 指南的主要防控原则。
+进展，最终呼吸衰竭死亡。根据临床症状和病理特 COPD稳定期患者咳嗽、咯痰、气短等症状稳
+定或症状轻微，并在一定长的时期内持续保持稳
+基金项目:国家自然科学基金(81830116);国家中医药管理局中医
+定，其防治目标重在缓解症状、预防疾病进展和降
+药行业科研专项(201507001-01);国家重点研发计划(2018YFC1704800)
+* 通讯作者:li_js8@163.com 低急性加重发生的风险; 急性加重期患者短期内呼
+·1896· 中医杂志2019年11月第60卷第22期 Journal of Traditional Chinese Medicine，2019，Vol．60，No．22
+吸症状急性恶化，痰量增多，多呈脓性或黏液脓 续进展而恢复困难。急性加重期以痰 ( 痰热、痰
+性，易降低患者的生活质量，增加住院率和再住院 浊) 、瘀及其互阻的实证为主并兼有正虚; 稳定期
+率，加速疾病进展［5－6］，其治疗目标是使本次急性 以肺气虚、肺脾气虚、肺肾气虚、肺肾气阴两虚的
+加重的影响最小化，并预防再次急性加重的发 虚证为主，常兼见血瘀、痰浊。危险窗期则邪实渐
+生［7］，减轻临床症状，降低死亡风险。急性加重 去，本虚显露，出现以痰湿、痰瘀与气虚、气阴两
+危险窗期是指在一次COPD急性加重后至稳定期之 虚相互兼夹的证候，病理性质为虚实夹杂并重［19］。
+前的时期内，极有可能再次出现急性加重，导致住 既往研究［20］表明，COPD 稳定期证候分布与肺功
+院率和病死率增高，大多集中在一次急性加重后的 能存在相关性: 肺功能轻度、中度受损患者
+8 周内［8］，其防治目标是预防再次急性加重的发生。 ( GOLD 1、2 级) ，证候分布主要为肺气虚证、肺
+气流受限程度即肺功能分级是评估和判断疾病 脾气虚证、肺肾气虚证，以前两者为常见; 肺功能
+严重程度和预后风险的主要内容。肺功能受损的严 重度、极重度受损患者 ( GOLD 3、4 级) ，证候分
+重程度和急性加重频率、死亡风险明显相关［9－11］。 布主要为肺脾气虚证、肺肾气虚证、肺肾气阴两虚
+研究［12］显示，约20%的GOLD2 级患者发生频繁急 证，以前两者为常见。稳定期虚中兼血瘀、痰浊，
+性加重，而GOLD3级和GOLD4级的患者发生频繁 常因肺功能受损的程度不同而有所差异，如肺功能
+急性加重的几率更高。因此，从最早版本的单纯评 轻度、中度受损者，常兼有痰浊或血瘀; 肺功能重
+价肺功能分级，到2011 更新版中推荐的ABCD风险 度、极重度受损者，常兼有痰浊、血瘀及其互阻，
+评价工具，肺功能分级一直是 GOLD 指导制定 且血瘀程度较重。由于 COPD 不同阶段病机特点、
+COPD治疗方案的重要一环。尽管 GOLD 2017 版中 证候分布特征不同，治则、治法也存在一定差异。
+的风险评估将肺功能分级从ABCD分组中分离出来， 因此，采用分期、分级辨证治疗，更容易准确把握
+但仍不能替代肺功能分级对于预测死亡和其他重要临 病机特点，辨证施治、精准治疗，有利于获得更好
+床结局的重要性，评估气流受限严重程度对于COPD 的临床疗效。
+疾病进展和预后评估仍具有重要的临床意义［13］。
+2 COPD中医分期分级防治的策略与目标
+结合临床分期与肺功能分级，COPD 不同疾病
+“未病先防，既病防变”是中医 “治未病”的
+阶段临床特点迥异: 1) GOLD 1、2 级患者肺功能
+精髓，也是中医防治慢性病的重要策略与原则。无
+下降快; 2) GOLD 3、4 级患者急性加重发生频
+论采取何种治疗方案，分期、分级辨证治疗必须根
+繁; 3) 晚期患者 ( 多见于 GOLD 4 级) 合并疾病
+据不同分期、不同阶段 ( 肺功能分级) 的关键病
+多，常致慢性呼吸衰竭，病死率高; 4) 急性加重
+理环节和病机特点，以解决的关键目标为靶标进行
+期病情恶化，导致住院和疾病进展、死亡风险增
+干预。因此，中医药防治COPD分期、分级的防治
+高、疾病负担加重。目前西医采用基于疾病分期和
+策略与目标为: 稳定期缓解症状、预防疾病进展、
+风险评估的治疗策略，包括氧疗、支气管扩张剂、
+降低急性加重发生的风险; 急性加重期重在使本次
+糖皮质激素、抗生素、机械通气等。国际著名的
+急性加重的影响最小化、减轻临床症状、降低死亡
+UPLIFT［14］、FULFIL试验［15］等和我国钟南山院士
+风险; 急性加重危险窗期重在防止再次急性加重的
+牵头的Tie-COPD研究［16］等均显示，西医治疗在减
+发生、促进恢复进入稳定期。根据肺功能气流受限
+轻症状、改善生存质量、预防急性加重等方面有
+严重程度分级: GOLD 1、2 级患者重在保护肺功
+效，但在延缓肺功能下降、降低病死率、预防疾病
+能、延缓疾病进展; GOLD 3、4 级患者重在减少
+进展等远期目标方面作用有限。如何获得更好的分
+急性加重、提高生存质量; 晚期患者 ( 多见于
+期、分级防治措施，实现远期疗效目标，减少药物
+GOLD 4 级) 应注重合并疾病的防治、降低死亡风
+毒副作用仍是目前COPD领域的研究重点。
+险、提高生存质量，尤其要注意降低慢性呼吸衰竭
+1.2 COPD不同阶段病机与证候特点决定了治法
+病死率。
+的不同
+3 COPD中医分期分级防治策略的实践
+本虚标实为COPD的主要病理变化，正虚积损
+为其主要病机［17－18］。正虚是指肺脾肾虚损而以肺 3.1 稳定期的防治
+虚为始、久必及肾，以气虚为本，积损难复; 正虚 COPD稳定期的防治策略与目标是缓解症状、
+不运，酿生痰瘀，痰瘀常互结成积，复愈损伤正 预防疾病进展和降低急性加重发生的风险。在此基
+气。正虚积损互为因果，终致肺之形气俱损，呈持 础上，根据肺功能不同程度采取有针对性且更为具
+中医杂志2019年11月第60卷第22期 Journal of Traditional Chinese Medicine，2019，Vol．60，No．22 ·1897·
+体的防治目标和治疗措施。 证用益气滋肾方) 治疗能够减少患者急性加重次
+3.1.1 GOLD 1、2 级患者 关于 COPD 早期的界 数和程度，改善肺功能，提高生存质量和运动耐
+定，目前医学界尚无统一的认识，临床研究中一般 力，改善患者临床症状和呼吸困难状况。
+以GOLD1、2 级作为早期标准纳入患者。COPD患 3.1.3 晚期患者 晚期患者 ( 多见于GOLD 4 级)
+者早期几乎没有症状。Zhou 等［21］对 COPD 患者社 应注意防治合并疾病、降低死亡风险、提高生存质
+区早期综合干预4 年的研究结果显示，在 COPD 早 量，尤其要注意降低慢性呼吸衰竭病死率。COPD
+期患者肺功能已下降，而且下降速率相对较快，而 晚期常伴有多个合并疾病，包括心血管疾病、骨骼
+早期综合干预模式能有效减少COPD危险因素暴露 肌功能障碍、代谢综合征、骨质疏松、抑郁和肺癌
+率和肺功能下降率。钟南山团队开展的 Tie-COPD 等，对预后有显著影响［23－25］。COPD 任何严重程
+研究首次证实了对无症状的COPD患者进行早期干 度均可存在合并疾病，但合并症不改变COPD 的治
+预和长期用药可显著改善其肺功能［16］。目前通行 疗方案，同时也应常规治疗合并症［5］。
+的国际治疗指南主要是针对有症状的 COPD 患者， 慢性呼吸衰竭是晚期常见的并发症，改善症
+而对占超过70%的无症状或者症状轻微的患者并 状、减低病死率、提高患者生存质量是COPD 晚期
+未给予关注，但临床上患者一旦出现气促、呼吸困 防治的主要目标。慢性呼吸衰竭的病机［26－27］以虚
+难等明显症状时，肺功能已经严重受损，已错过了 为重，尤以气虚为主，甚则阳虚，痰浊、血瘀兼
+最佳治疗时机。因此，GOLD 1、2 级患者的防治 重。临床证候以心肺气虚证、肺肾气虚证、肺肾气
+目标重在保护肺功能的下降、延缓疾病进展。 阴两虚证为常见，治疗应以益气、活血、化痰为
+稳定期GOLD 1、2 级患者常见证候有肺气虚 主。中医药治疗呼吸衰竭具有较好的疗效［28－29］，
+证、肺脾气虚证、肺肾气虚证，常兼有痰浊或血 尤其是中西医结合治疗COPD合并呼吸衰竭具有疗
+瘀。治疗应以 “缓则治其本”为原则，法宜扶正 效好、不良反应少的优势，但仍需更多高级别临床
+为主佐以化痰、活血，扶正又当以补肺、健脾佐以 证据的支持。
+益肾。一项多中心随机双盲安慰剂对照临床研 3.2 急性加重期的防治
+究［22］证据表明，对于肺功能轻度、中度的 COPD 急性加重是指 COPD 患者呼吸症状急性恶化，
+稳定期患者，中医辨证治疗方案 ( 肺气虚证用补 导致需要额外的治疗。通常在疾病过程中，短期内
+肺方，肺脾气虚证用补肺健脾方，肺肾气虚证用补 患者咳嗽、咯痰、气短和/或喘息加重，痰量增多，
+肺益肾方) 能够改善肺功能，减少急性加重次数， 呈脓性或黏液脓性，可伴发热等炎症明显加重的表
+改善临床症状，提高运动耐力，改善生存质量，并 现，需根据病情程度选择不同的治疗场所及治疗方
+具有较好的远后效应。 案。该阶段患者病情加重，易致疾病迅速进展，死
+3.1.2 GOLD 3、4 级患者 COPD 病情严重程度 亡风险增加，因此，防治重点在于使本次急性加重
+与肺功能分级密切相关，随着疾病进展，气流受限 的影响最小化、减轻临床症状、降低死亡风险。
+进行性发展，患者肺功能逐渐下降、呼吸困难加 COPD急性加重期常见风寒袭肺、外寒内饮、
+重、急性加重频发、住院次数增加、生活质量逐渐 痰热壅肺、痰湿阻肺等证［19］，治疗应遵 “急则治
+下降、病死率和病残率逐渐增高、经济负担严重， 其标”原则，法宜清化宣降为主，包括清热化痰、
+因此，针对 GOLD 3、4 级 COPD 患者的防治目标 燥湿化痰、温化寒饮、活血化瘀、宣降肺气等。系
+重在减少急性加重、提高生存质量。 统评价［30］结果显示，采用中医辨证联合西医常规
+GOLD3、4级患者常见肺脾气虚证、肺肾气虚 治疗COPD急性加重，可以显著改善临床症状、改
+证、肺肾气阴两虚证，常兼有痰浊、血瘀及其互阻， 善肺功能。
+随肺功能降低而增多并严重。法宜扶正为主，佐以 3.3 危险窗期的防治
+化痰、活血，扶正又当以补肺、益肾佐以健脾，并 急性加重危险窗期是介于急性加重期结束至稳
+根据肺肾的气虚、阴虚之偏而调整用药。我们目前 定期的一段时期，在此时期内COPD极易再次出现
+已经完成的一项10 个中心、564 例的随机双盲安慰 急性加重，这个高度危险的时期称为 “AECOPD
+剂对照临床试验 ( 临床试验注册号: NCT02270424) 危险窗”［8］。由于该阶段的主要危害是再次急性加
+表明，重度、极重度COPD患者，在西医常规治疗 重、延迟进入稳定期，因此，减少危险窗期患者再
+基础上，中医辨证治疗方案 ( 肺脾气虚证用补肺 次急性加重，促进恢复进入稳定期是该阶段的重要
+健脾方，肺肾气虚证用补肺益肾方，肺肾气阴两虚 防治目标。
+·1898· 中医杂志2019年11月第60卷第22期 Journal of Traditional Chinese Medicine，2019，Vol．60，No．22
+急性加重危险窗期病机虚实并重，以气 ( 阳) ［J］．Respir Res ，2010，11(1): 122．
+虚、气阴两虚为主，常兼痰瘀。临床常见肺肾气虚 ［11］SORIANO JB，LAMPRECHT B，RAMIREZ AS，et al．
+Mortality prediction in chronic obstructive pulmonary dis-
+兼痰湿阻肺、肺脾气虚兼痰湿阻肺、肺肾气阴两虚
+ease comparing the GOLD 2007 and 2011 staging sys-
+兼痰湿阻肺、肺肾气虚兼痰瘀阻肺和肺肾气阴两虚
+tems: a pooled analysis of individual patient data［J］．
+兼痰瘀阻肺等证［31］。治疗当祛邪 ( 化痰、活血)
+Lancet Resp Med ，2015，3(6): 443-450．
+扶正 ( 补益肺气、补肺健脾、补益肺肾等) 并重。
+［12］HURST JR，VESTBO J，ANZUETO A，et al． Suscepti-
+既往临床研究［32］表明，采用中西医结合序贯治疗
+bilitytoexacerbationinchronicobstructivepulmonarydis-
+方案可减少急性加重次数，改善呼吸困难等临床症 ease［J］． N Engl J Med ，2010，363(12): 1128-1138．
+状，提高生存质量。 ［13］VOGELMEIERCF，CRINERGJ，MARTINEZFJ，etal．
+Global strategy for the diagnosis，management，and pre-
+参考文献
+vention of chronic obstructive lung disease 2017 report．
+［1］Global Initiative for Chronic Obstructive Lung Disease．
+GOLD executive summary［J］． Am J Respir Crit Care
+Globalstrategyforthediagnosis，management，andpreven-
+Med，2017，195(5):557-582．
+tion of chronic obstructive pulmonary disease ( 2019 Re-
+［14］TASHKIND，CELLIB，SENNS，etal． A4-yeartrialof
+port) ［J］． Eur Respir J，2019，53( 5): 1900164． doi:
+tiotropium in chronic obstructive pulmonary disease
+10．1183/13993003．00164-2019． Print2019 May．
+(UPLIFT trial) ［J］． N Engl J Med，2008，359( 15):
+［2］WANG C，XU J，YANG L，et al． Prevalence and risk
+1543-1554．
+factors of chronic obstructive pulmonary disease in China
+［15］LIPSON DA，BARNACLE H，BIRK R，et al． FULFIL
+(the China Pulmonary Health［CPH］study): a national
+Trial: once-daily triple therapy in patients with chronic
+cross-sectional study［J］． Lancet，2018，391( 10131):
+obstructivepulmonarydisease［J］． AmJRespirCritCare
+1706-1717．
+Med，2017，196(4):438-446．
+［3］YANG G，WANG Y，ZENG Y，et al． Rapid health tran-
+［16］ZHOU Y，HUG，WANGD，etal． Communitybasedin-
+sition in China，1990 － 2010: findings from the Global tegrated intervention for prevention and management of
+Burden of Disease Study 2010［J］． Lancet，2013，381 chronic obstructivepulmonarydisease(COPD) inGuang-
+(9882):1987-2015． dong，China: cluster randomised controlled trial［J］．
+［4］PENG Y，WANG H，VOS T，et al． A subnational analy- BMJ，2010，341(7784):1203-1203．
+sis ofmortalityandprevalenceofCOPDinChinafrom1990 ［17］李建生． 中医临床肺脏病学［M］．北京:人民卫生出版
+to2013: findings from the global burden of disease study 社，2015:395．
+2013［J］． Chest，2016，150(6):1269-1280． ［18］李建生． 正虚积损为慢性阻塞性肺疾病的主要病机
+［5］WEDZICHA JA，SEEMUNGAL TA． COPD exacerba- ［J］．中华中医药杂志，2011，26(8):1710-1713．
+tions: defining their cause and prevention ［J］． Lancet， ［19］李建生，张海龙，王海峰，等．慢性阻塞性肺疾病证候
+2007，370(9589): 786-796． 演变特点临床调查［J］．中医杂志，2017，58(9): 772-
+［6］SEEMUNGAL TA，DONALDSON GC，PAUL EA，et al． 776．
+Effect of exacerbation on quality of life in patients with ［20］王至婉，李建生，王明航，等．慢性阻塞性肺疾病稳定
+chronic obstructivepulmonary disease［J］．Am J Respir Crit 期肺功能与证候分布规律的相关性［J］． 中医杂志，
+Care Med，1998，157(5 Pt1): 1418-1422． 2011，52(16):1376-1378．
+［7］MARTINEZ FJ，HAN MK，FLAHERTY K，et al．Role of ［21］ZHOU YM，ZHONG NS，LI X，et al． Tiotropium in
+infection and antimicrobial therapy in acute exacerbations early-stage chronic obstructive pulmonary disease［J］． N
+of chronic obstructive pulmonary disease［J］． Expert Rev Engl J Med，2017，377(10):923-935．
+Anti Infect Ther ，2006，4(1): 101-124． ［22］WANGM，LIJ，LIS，etal． EffectoftraditionalChinese
+［8］李建生，王海峰． 基于慢性阻塞性肺疾病急性加重危 medicine on outcomes in patients with mild/moderate
+险窗的祛邪扶正序贯辨证治疗策略［J］．中国中西医结 chronic obstructive pulmonary disease: study protocol for
+合杂志，2011，31(9):1276-1280． a randomized placebo-controlled trial［J］． Trials，2012，
+［9］MULLEROVA H，MASELLI DJ，LOCANTORE N，et al． 13:109．doi: 10．1186/1745-6215-13-109．
+Hospitalized exacerbations of COPD: risk factors and out- ［23］BHATT SP，DRANSFIELDMT． Chronicobstructivepul-
+comes in the ECLIPSE cohort［J］． Chest，2015，147(4): monary disease and cardiovascular disease［J］． Transl
+999-1007． Res，2013，162(4): 237-251．
+［10］AGUSTIA，CALVERLEYPM，CELLIB，etal． Charac- ［24］BUCH P，FRIBERG J，SCHARLING H，et al． Reduced
+terisation of COPD heterogeneity in the ECLIPSE cohort lung function and risk of atrial fibrillation in the Copen-
+中医杂志2019年11月第60卷第22期 Journal of Traditional Chinese Medicine，2019，Vol．60，No．22 ·1899·
+hagen City Heart Study［J］． Eur Respir J，2003，21(6): ［29］朱立成，朱文娟，尚云飞．中西医结合治疗慢性阻塞性
+1012-1016． 肺疾病并呼吸衰竭疗效及安全性的Meta分析［J］．现
+［25］TERZANO C，ROMANI S，CONTI V，et al． Atrial 代中西医结合杂志，2009，18(31):3789-3791，3794．
+fibrillation in the acute，hypercapnic exacerbations of ［30］李建生，王至婉，余学庆，等．中药治疗COPD急性加
+COPD［J］． EurRevMedPharmacolSci，2014，18(19): 重期的系统评价［J］．天津中医药，2008，25(5):428-
+2908-2917． 432．
+［26］李建生．关于慢性呼吸衰竭中医诊断及辨证治疗标准 ［31］张海龙，李建生，王海峰，等． 慢性阻塞性肺疾病急性
+的研究［J］．中医学报，2010，25(4):627-629． 加重危险窗证候分布的临床调查研究［J］． 世界科学
+［27］中华中医药学会肺系病专业委员会．慢性呼吸衰竭中 技术-中医药现代化，2014，16(7):1587-1592．
+医证候诊断标准(2012 版) ［J］． 中医杂志，2012，53 ［32］LI JS，WANG HF，LI SY，et al． Effect of sequential
+(11):981-983． treatment with TCM syndrome differentiation on acute ex-
+［28］蒋艳丽，王海峰，李建生．中医药治疗慢性阻塞性肺疾 acerbation of chronic obstructive pulmonary disease and
+病急性加重期呼吸衰竭研究述评［J］． 中医学报， AECOPD risk window［J］． Complement Ther Med，2016，
+2012，27(6):670-672． 29: 109-115． doi: 10．1016/j．ctim．2016．09．009．
+Strategy of Traditional Chinese Medicine Prevention and Treatment of Chronic Obstructive Pulmonary
+Disease Based on Classification of Stages and Grades
+LI Jiansheng1，2，YU Xueqing1，2
+(1.Co-construction Collaborative Innovation Center for Chinese Medicine and Respiratory Diseases by Henan ＆ Education Ministry of
+P.R. China/Henan Key Laboratory of Chinese Medicine for Respiratory Disease，Henan University of Chinese Medicine，Zhengzhou
+450046;; 2． The First Affiliated Hospital of Henan University of Chinese Medicine)
+ABSTRACT The evolution of chronic obstructive pulmonary disease ( COPD) is a gradual process． Focusing on the
+characteristics and key links of different stages of COPD，adopting staged grading prevention strategies and methods is
+of great practical significance for giving full play to the advantages of traditional Chinese medicine ( TCM) and impro-
+ving clinical efficacy． Based on the systematic analysis of the clinical characteristics，prevention and treatment goals
+of COPD，and the pathogenesis and syndromes，this paper put forward the prevention and treatment strategies and
+goals of TCM prevention and treatment of COPD: (1) According to the stage of the disease: the prevention and treat-
+ment strategy and goal of the stable period is to relieve symptoms，prevent disease progression，and reduce the risk of
+acute exacerbation． The treatment should follow the principle of“treating the root causes for slow onset”，and the
+methods should be enforcing healthy qi ( tonifying the lung，invigorating the spleen，benefiting the kidney) ，accompa-
+nied by resolving phlegm and improving blood circulation． For the acute exacerbation period，it is to minimize the im-
+pact of this acute exacerbation，reduce clinical symptoms，and reduce the risk of death． The treatment should follow
+the principle of“treating the symptoms for acute onset”，and the methods should be clearing，resolving，ventilating，
+and descending，including clearing heat and resolving phlegm，drying dampness and resolving phlegm，warming and
+resolving cold fluids，promoting blood circulation and removing blood stasis，and ventilating and descending lung qi．
+For the critical window of acute exacerbation，it is to prevent the occurrence of acute exacerbation and promote recov-
+ery into a stable period． The treatment should both eliminate pathogens ( resolving phlegm and promoting blood circu-
+lation) and enforce healthy qi ( tonifying and benefiting lung qi，replenishing the lung and strengthening the spleen，
+replenishing the lung and kidney，etc．) ． (2) According to the function of lung function ( severity of airflow limita-
+tion) : for COPD patients with Global Initiative for Chronic Obstructive Lung Disease ( GOLD) level 1 and 2，the
+treatment should protect against the decrease of lung function and delay the progression of the disease． The treatment
+is based on enforcing the healthy qi ( reinforcing the lung，invigorating the spleen，and replenishing the kidney) ，
+accompanied with resolving phlegm and promoting blood circulation; for patients of GOLD level3 and4，should focus
+on reducing acute exacerbation，improving quality of life，and the treatment should enforce the healthy qi ( reinforcing
+the lung，benefiting the kidney，and invigorating the spleen) ，accompanied by resolving phlegm and promoting blood
+circulation; for advanced patients，should pay attention to the prevention and treatment of combined diseases，reduce
+the risk of death，improve the quality of life，especially pay attention to reducing the mortality rate of chronic respira-
+tory failure，and the treatment should be based on replenishing vital energy，promoting blood circulation，and remo-
+ving phlegm．
+Keywords chronic obstructive pulmonary disease，traditional Chinese medicine prevention and treatment strategy;
+staging prevention and treatment; grading prevention and treatment
+(收稿日期: 2019－05－06; 修回日期: 2019－07－03)
+［编辑: 崔京艳］

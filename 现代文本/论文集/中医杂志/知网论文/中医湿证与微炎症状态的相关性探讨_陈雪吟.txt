@@ -1,0 +1,490 @@
+中医杂志 年 月第 卷第 期 ， ， ， · ·
+2021 11 62 21 JournalofTraditionalChineseMedicine 2021 Vol.62 No.21 1841
+学术探讨
+： -
+DOI 10.13288/j.11 2166/r.2021.21.001
+中医湿证与微炎症状态的相关性探讨
+陈雪吟 ，康福琴 ，杨丽虹 ，何敏 ，刘少南 ，何怡瀚 ，邓雪仪 ，张蕾 ，毛炜 ，郭新峰
+1 1 2 2 2 2 1 2 2 2✉
+广州中医药大学第二临床医学院，广东省广州市白云区机场路 号， ； 广东省中医院
+1. 12 510000 2.
+［摘要］ 微炎症状态普遍存在于多种慢性疾病之中，其本质是免疫性炎症。中医湿证是临床常见的中医证
+型，其发病特点和临床表现与微炎症状态具有高度相似性。结合既往研究结果，阐述中医湿证与微炎症状态
+在宏观表象、发病特点上的共同点和相似性，并从现代疾病如肥胖症、慢性肾脏病、冠状动脉粥样硬化性心
+脏病等方面探讨湿证与微炎症的相关性，从肠道菌群、水分和脂质代谢三个角度探讨二者可能存在的生物学
+机制联系，提出微炎症状态可能是中医湿证在病理变化上的重要体现之一。
+［关键词］ 湿证；微炎症状态；细胞因子；肠道菌群；水通道蛋白；脂质代谢
+中医湿证是临床常见的中医证型，涉及多种健 核-巨噬细胞释放相关炎症因子［ ］。
+10
+康状态（包括亚健康与慢性疾病）的诸多病理阶 目前微炎症的诊断指标尚未形成统一认识，通
+段，病理性质为趋下、重浊黏腻、易阻气机，且发 常认为包括两类：一类是急性时相反应蛋白，常用
+病隐匿、病位广泛、易兼夹他证、病程迁延［ 1］。 指标为血清 反应蛋白（ ）［ 8］，少数研究者选
+C CRP
+“湿”可影响脏腑的运化转输，导致浊、饮、痰等 用血清淀粉样蛋白 （ ）和纤维蛋白原［ ］；另
+11
+A SAA
+病理产物的累积，进而引起与湿相关的局部或全身 一类是单核细胞、淋巴细胞等释放的炎性细胞因
+的疾病或症状［ 2］。目前湿证客观化研究日渐丰富， 子，如白细胞介素 （ - ）、肿瘤坏死因子
+6 IL 6 α
+对于提高辨证论治水平，进而提高临床疗效具有重 （ - ），以及炎性介质因子等［］。目前以细胞因
+8
+TNF α
+要意义［ 1， 3- 4］。 子判断微炎症的量化标准还在探索中，其中较为认
+目前关于湿证本质或湿证生物学基础的研究主 可的观点是 升高达到 ～ 时可作为
+CRP 9.5 15 mg/L
+要集中在肠道菌群［ 5］、代谢组学［ 6］、水液转运［ 7］ 微炎症的判断标准［ 12］。此外，大型队列研究发现，
+等几个方面。研究［ 3］显示，微炎症状态很可能是 临床常用炎症指标白细胞计数［ 13］、淋巴细胞计
+湿证的重要生物学机制之一。微炎症在多种慢性疾 数［ ］、中性粒细胞计数［ ］也可作为识别代谢类疾
+14 15
+病中普遍存在，其本质是免疫炎症［ 8］，其宏观表象 病微炎症状态的依据。
+和发病特点与湿证高度相似。本文拟对中医湿证与
+中医湿证与微炎症状态在发病表现上的相似性
+微炎症状态的相关性进行探讨，为该领域的进一步 2
+我们对既往相关研究进行总结发现，中医湿证
+研究提供参考和思路。
+与现代医学的微炎症状态在临床表现上有诸多相似
+微炎症状态的提出及判断标准
+1 之处。其一，微炎症状态可视为患者出现临床症状
+微炎症状态最初发现于血液透析患者中，被临 和实验室指标异常之前的“临床病变前期表现”，
+床认为是非病原微生物感染引起的低度炎症反应，
+这与湿证“湿气熏蒸，人多不觉”的隐匿性相
+表现为血液循环中的炎症因子长期持续低度升高， 似［ ］。慢性疾病患者出现明显临床症状之前，机
+16
+可能导致机体出现多种并发症［ 9］。其机制主要是自
+体就已经分泌少量炎性介质如 - 、白细胞介
+TNF α
+身免疫系统的各种生物化学物质协同刺激，导致单
+素、趋化因子等对内环境进行保护；而随着炎性介
+质浓度升高，可诱发胰岛素抵抗、氧化应激、免疫
+基金项目：省部共建中医湿证国家重点实验室专项（ ）
+SZ2020ZZ24
+通讯作者： 功能下降、胃肠黏膜环境紊乱等反应［ 17］，继而引
+guoxinfeng@gzucm.edu.cn
+· · 中医杂志 年 月第 卷第 期 ， ， ，
+1842 2021 11 62 21 JournalofTraditionalChineseMedicine 2021 Vol.62 No.21
+起慢性肾脏病、代谢综合征、糖尿病等慢性疾病。 从现代疾病探讨湿证与微炎症状态的相关性
+3
+这些病症多具有湿证发病隐匿的特点，即疾病初期
+结合现代医学对微炎症状态的认识，可将微炎
+病情较轻、不易察觉，待症状明显时可能已病变较
+症对人体产生的影响概括为免疫功能及内分泌和代
+重或累及他脏。其二，微炎症是涉及全身循环的炎
+谢异常、炎症因子过度释放、病理产物堆积、脏腑
+性反应，可影响机体多个系统的功能，这与湿邪致 功能下降［ ］，此过程可能与“湿”对人体造成的
+26
+病病位广泛的特点亦相同。研究［ ］表明，微炎症
+18 气机阻遏、水液代谢紊乱，致使脏腑功能受损具有
+可能是诸如代谢综合征、动脉粥样硬化、恶性肿
+一定的相关性。
+瘤、慢性肠病、神经退行性疾病和自身免疫性疾病
+痰湿证被认为是肥胖症的核心证型。多食则脾
+等多个疾病的发病机制之一。湿邪致病同样涉及临
+运不及，津液水谷停滞而成生痰之源；痰湿滋生则
+床各科，宋代杨士瀛总结湿证临床表现为“滞而为
+阻滞气机，进一步影响脾胃功能而加重肥胖。化痰
+喘嗽，渍而为呕吐，渗而为泄泻，溢而为浮肿，湿 祛湿是中医药防治肥胖的重要切入点［ ］。研究［ ］
+27 28
+瘀热则发黄，湿遍体则重着，湿入关节则一身尽 表明，肥胖者机体的肠道免疫功能失调和白色脂肪
+痛，湿聚痰涎则昏不知人，至于为身热，为鼻塞， 组织扩张等病理改变，可引起促炎因子过度分泌，
+为直视，为郑声，为虚汗，为脚气，为腹中胀、脐 从而进一步促进前脂肪细胞增生，加重肥胖，使人
+下坚，为小便难、大便自利，皆其证也”［ 19］。其
+体长期处于伴有肠道黏膜免疫功能低下的微炎症状
+三，与微炎症相关的多是慢性疾病，其与湿证同样 态。这可能是肥胖之人易聚湿生痰、损伤脾气的潜
+具有缠绵难愈、病程迁延的特点。炎性介质在微炎 在病理机制。
+症中发挥着重要作用，微炎症状态下促炎因子大量 慢性肾脏病（ ）患者伴有长期持续的微炎
+CKD
+分泌，而抑炎因子相对不足，机体的免疫应答机制 症状态［ ］。微炎症不仅可加重肾功能减退，导致
+29
+无法有效启动，这是大多自身免疫性疾病迁延不愈 肾脏结构和功能的改变，还可能促进贫血、营养不
+的重要原因［ 20］。湿性黏腻，湿证病情亦常胶着， 良、心血管事件等并发症的发生［ 30］。中医学认为，
+疾病后期多为正气损耗、虚实夹杂、寒热错杂之 多属正虚邪实，患者由于脾肾虚损，常常伴
+CKD
+证，致病程绵长、迁延难愈，临床诊治具有较大 有不同程度的湿浊潴留，可加重病情并形成“湿
+难度。 浊”之标证，出现水肿、乏力、恶心、呕吐等症
+“湿”的性质和发病特点亦可在微炎症状态中 状，这与微炎症对 的影响相一致。既往证候
+CKD
+得到体现。研究［ 21］显示，外湿入侵可导致机体血 调查结果［ 31］提示， 湿证患者的炎症因子水平
+CKD
+液流变学各指标异常。血管系统是微炎症反应的主 较高，其中湿浊证与 具有很强的相关性。因
+CRP
+要场所，如促炎因子 - 可刺激黏附分子表达， 此， 患者微炎症程度很可能是其湿证程度在
+TNF α CKD
+并直接影响血流动力学，降低血管内皮细胞的通透 病理指标上的表现。
+性［ 22］，这与湿性黏滞、易致气机滞塞的特征相似。 炎性反应是冠状动脉粥样硬化性心脏病
+微炎症可导致 -羟色胺减少，破坏抗氧化防御功 （ ）病变的始动环节和主要过程， 通过与
+5 CAD CRP
+能，而促炎因子过度分泌可使神经元凋亡和萎缩， 脂蛋白结合和激活补体系统加重血管内皮损伤，
+引起抑郁、焦虑及身体沉重、经休息无法缓解的疲 - 介导内皮细胞的功能紊乱，黏附分子辅助炎
+TNF α
+劳感等，这与湿性重浊导致的症状相似［ 23］。如代 症因子促进动脉斑块形成，导致冠心病的发生发
+谢综合征患者均伴有微炎症，微炎症又可加重代谢 展［ ］。“痰湿（浊）证”与“血瘀证”是贯穿
+32
+CAD
+障碍，促进并发症的发生，这与湿阻气机、损伤阳 发展始终的中医证候，其中痰湿主要出现在疾病早
+气，使气机升降失常、运化无权较为一致［ 24］。微 期，终末期则以血瘀证最为多见［ 33］。研究发现，
+炎症过程中可伴随多种病理产物的累积，如高脂血 痰湿（浊）证的患者炎症因子和炎性蛋白水
+CAD
+症的脂质堆积、肾炎中肾小球系膜增生及系膜基质 平较高，升高比例仅次于血瘀证［ - ］。因此，微炎
+3435
+增多、血管内皮动脉斑块的形成，而有学者认为湿 症可能是 早期形成痰湿（浊）证的病理因素，
+CAD
+是代谢产物的堆积［ 25］。上述临床表现的相似性均 据此可初步推测微炎症的进展或许是痰浊阻络而生
+提示微炎症状态在疾病的宏观表象和发病特点上与 瘀血的机制之一。
+中医湿证具有高度相似性。 除了肥胖、慢性肾病、心血管疾病三者与微炎
+中医杂志 年 月第 卷第 期 ， ， ， · ·
+2021 11 62 21 JournalofTraditionalChineseMedicine 2021 Vol.62 No.21 1843
+症状态的相关性研究较为常见，其他系统疾病也有 讲， 作为与水液转运密切相关的蛋白，可能
+AQPs
+研究结果提示微炎症状态与湿证相关，如高尿酸血 与“湿”的形成有密切关系［ ］。相关研究表明，
+45
+症［ ］、子宫内膜增生［ ］等。湿证在上述疾病中的 湿邪侵犯会导致受影响脏腑的 表达降低，而
+36 37
+AQPs
+宏观表象和病机分析均提示微炎症状态与湿证有着 祛湿中药的干预有助于 的升高［］。 表达
+7
+AQPs AQPs
+密切的关系，炎症因子很可能直接参与了人体多系 受炎症因子调控，其自身也参与了炎症因子的调控
+统湿邪致病的发病过程。 过程，包括在皮肤免疫应答过程中调节信号通路，
+参与调控慢性肺损伤、神经性炎症、肠道疾病和骨
+湿证与微炎症状态相关性的可能生物学机制
+4
+关节病变等多个系统的炎性疾病［ ］，这一特点与
+46
+肠道菌群
+4.1 微炎症和湿证致病广泛的特征相一致。 在微
+肠道菌群失调是湿证研究较多的重点领域之 AQPs
+炎症反应中改变了细胞渗透微环境，使细胞水液渗
+一，其中肠源性微炎症是微炎症状态的常见类
+透性和体积增大，最终导致水液过剩，甚至出现水
+型［ ］。肠道菌群通过与宿主间的相互作用而调控
+38
+肿症状，这一机制也可看出 或许是微炎症与
+肠道稳态，降解宿主自身不能分解利用的物质，也 AQPs
+湿证关联的重要桥梁［ ］。
+47
+吸取宿主养分为己所用。肠道菌群平衡是中医脾胃
+脂质代谢和微炎症之间是相互影响的关系。脂
+运化稳定的内在机制，肠道微生态失衡则是脾虚湿
+质代谢失衡会引发氧化应激反应，导致细胞因子过
+困发病的关键［ ］。近年来，关于湿证患者肠道菌
+39
+度分泌，也可活化促炎作用（ ）抑炎作用（ ）巨
+群的研究逐步揭示，在湿证发生时，肠道菌群紊 M1 / M2
+噬细胞诱导微炎症，还可通过炎症小体调控炎性反
+乱、肠道黏膜免疫功能破坏，会引起腹泻、胀气、
+应。微炎症反应可通过增加脂质的摄取和积累、抑
+水湿代谢障碍等湿证症状，这可能是脾失健运，继
+制脂质流出、抑制胆固醇转运等加重脂质代谢紊
+而小肠泌别清浊和大肠传导功能失常的微观表
+乱［ ］。湿证的微观物质基础研究中发现了多条湿
+现［ - ］。故肠道菌群失调可能是湿证形成的生物学 48
+4041
+证特异的脂质代谢产物和代谢通路，其中参与了动
+机制之一。
+脉壁炎症的溶血磷脂酰胆碱在痰湿模型中升高，而
+肠道菌群紊乱可促进全身炎性反应。其一，肠
+具有抑制黏附分子表达的亚油酸则明显降低，二者
+道菌群的能量吸收、分解能力下降导致脂肪合成过
+在痰湿模型中的变化均会加重微炎症、增加动脉粥
+量，脂肪与甘油三酯合成大量新鲜的乳糜颗粒可加
+样硬化的风险［ ］。目前湿证相关的脂质代谢研究
+49
+速启动炎症反应，同时脂肪本身释放的大量炎性因
+较为有限，但从中医湿证的定义以及湿证和痰湿的
+子是代谢性炎症反应发生的基础［ ］。其二，肠道
+42
+高度相关性可初步推测，脂质代谢也是微炎症和湿
+通透性增加，细菌死亡溶解后内毒素被释放进入血
+证关联通路上不可忽视的部分。
+液而引起的炎症反应不断发生［ ］。其三，肠道微
+42
+小结
+生物可作用于免疫系统，使血液中促炎细胞因子和
+5
+抗炎细胞因子水平发生改变［ ］。根据肠道菌群对 本文探讨了湿证与微炎症状态在临床表现上的
+43
+于湿证和微炎症发病中的作用，可初步推测湿证所 相似性和内在机制上的可能联系，通过对相关研究
+处的微炎症状态的发生机制可能与肠道菌群紊乱有 进行分析，提出微炎症状态可能是湿证在病理变化
+关，也有可能在湿证发生时，自身免疫反应和肠道 上的重要体现之一的假说。虽然不少研究结论对该
+菌群导致的炎症反应是同时出现的，二者协同 假说有较为积极的支撑，但该领域研究尚存在三个
+作用［］。 主要问题影响了研究结果的可靠性： ）微炎症相
+3
+1
+水分和脂质代谢 关的证候研究多基于单病种，并且在比较证候之间
+4.2
+中医学定义的湿主要是人体的水液代谢异常， 炎症因子水平时，尚未有研究以疾病分期为分组因
+故其还可能与水分、脂质代谢相关。水分代谢研究 素进行亚组分析，因此难以判断湿证与微炎症独立
+较多的领域是水通道蛋白（ ），其为细胞膜上 于疾病病种和分期的相关性，部分疾病和病情进展
+AQPs
+组成“孔道”的蛋白质，可以选择性地介导水和其 对微炎症程度可能有更大的影响［ - ］； ）有研究
+5051
+2
+他无电极小分子的跨膜转运，在维持机体水液转运 结果显示，除湿证外，部分其他证候，尤其是湿证
+和代谢平衡中发挥着重要作用，并在人体各个组织 常见的兼夹证型或病机如血瘀［ ］、气滞［ - ］、脾
+52 5354
+器官中广泛表达［ ］。从湿证津液代谢紊乱的角度 虚［ ］、中医风邪［ ］等与微炎症也有一定的相关
+44 55 56
+· · 中医杂志 年 月第 卷第 期 ， ， ，
+1844 2021 11 62 21 JournalofTraditionalChineseMedicine 2021 Vol.62 No.21
+性，应注意不同证候微炎症状态的差异； ）现有 ，
+3 rate and diabetes incidence in a national sample of US
+研究设计横断面研究多、规范的纵向设计少，难以 ［］ ， ， （）：
+adults J . AmJEpidemiol 2002 155 1 57-64.
+观察到湿证的演变规律及其与微炎症多指标动态变 ［ ］ ， ， ，
+14 SUNS WUH ZHANGQ etal. Subnormalperipheral
+化的相关性。建议开展基于证候登记的多病种队列
+blood leukocyte counts are related to the lowest preva⁃
+：
+研究，规范采集和分析多时点、多病种、涵盖湿证 lence and incidence of metabolic syndrome Tianjin
+-
+及其主要兼证的炎症因子、肠道菌群及水分和脂质 chronic low grade systemic inflammation and health co⁃
+［］ ， ， ：
+代谢指标，以全面了解湿证的生物学基础及炎症因 hort study J . Mediators Inflamm 2014 2014 412386.
+：
+子在其中的地位和作用。炎症因子是临床常用的实 doi 10.1155/2014/412386.
+［ ］ ， ， ，
+验室检测指标，若能阐明中医湿证与微炎症的关 15 TATSUKAWAY HSUWL YAMADAM etal. White
+， ，
+系，将对全面揭示湿证的生物学基础，进而改善中 blood cell count especially neutrophil count as a
+［］
+predictor of hypertension in a Japanese population J .
+医湿证的诊断、完善湿证诊疗策略、提高湿证相关
+， ，（）：
+HypertensRes 2008 31 7 1391-1397.
+疾病的临床疗效和改善湿证人群的健康状态具有重
+［ ］魏明刚 肾病微炎症状态的中医理论探讨［］中医杂
+16 . J .
+要的理论与现实意义。 志， ，（ ）：
+2011 52 10 813-815.
+参考文献 ［ ］张洁，王方，许海燕，等 炎性因子与胰岛素抵抗［］
+17 . J .
+世界华人消化杂志， ，（ ）：
+［］路志正 中医湿病证治学［ ］ 北京：科学出版社， 2006 4 32 3121-3125.
+1 . M . ［ ］ ， ， ，
+： 18 WÄRNBERG J CUNNINGHAM K ROMEO J et al.
+2018 16-20. ， -
+［］孙广仁 中医基础理论［ ］北京：中国中医药出版社， Physicalactivity exerciseandlow gradesystemicinflam⁃
+2 . M . ［］ ， ，（）：
+： mation J . ProcNutrSoc 2010 69 3 400-406.
+2007 270-274. ［ ］杨士瀛 仁斋直指方论［ ］福州：福建科学技术出版
+［］汪海东，吴晴，王秀薇，等 中医湿病的现代认识［］中 19 . M .
+3 . J . 社， ：
+医杂志， ，（ ）： 1989 119.
+2015 56 13 1089-1092. ［ ］吴先林，陈孝银 从中西医免疫观探讨“湿性黏滞”的
+［］杨德才，朱春梅，顾巍杰，等 中医湿证的生物学基础研 20 .
+4 . 本质［］辽宁中医杂志， ， （）：
+究进展［］中华中医药杂志， ，（ ）： J . 2010 37 5 832-833.
+J . 2018 33 11 5031-5034. ［ ］秦鉴，金明华，吴国珍，等 高湿环境对大鼠血液流变
+［］陈硕，牛天慧，孟凡荣，等 脾虚痰湿证代谢综合征患者 21 .
+5 . 学、一氧化氮及内皮素的影响［］中国中西医结合杂
+肠道菌群的定量研究及其意义［］ 解放军医药杂志， J .
+J . 志， ，（）：
+，（）： 2003 23 3 211-212.
+2018 30 3 9-12.
+［ ］ ， ， ，
+［］张萍，李缘缘，邵岩飞，等 代谢综合征痰证与湿证患者 22 MATTOS BR BONACIO GF VITORINO TR et al.
+6 . - - ，
+的血清代谢组学比较研究［］中华中医药杂志， ， TNF αinhibitiondecreasesMMP 2activity reactiveoxy⁃
+J . 2021
+（）： genspeciesformationandimproveshypertensivevascular
+36 3 1627-1632.
+［］张凯文，黄秀深，陈芳，等 肺为水之上源理论与湿阻中 hypertrophy independent of its effects on blood pressure
+7 .
+［］ ， ， ： ：
+焦证致肺水通道蛋白变化的关联性研究［］ 四川中
+J . Biochem Pharmacol 2020 180 114121. doi
+J .
+医， ， （）：
+10.1016/j.bcp.2020.114121.
+2018 36 2 56-60.
+［ ］ ， ， ，
+［］梁莹，王妍春 慢性肾脏病微炎症状态的诊断与治疗
+23 VALKANOVA V EBMEIER KP ALLAN CL. CRP
+8 .
+［］实用医学杂志， ，（）： - ： -
+J . 2016 32 7 1186-1188. IL 6 and depression a systematic review and meta
+［］ ， ， ［］ ，
+9 SCHÖMIG M EISENHARDT A RITZ E. The microin⁃ analysis of longitudinal studies J . J Affect Disord
+［］ ， ，（）： ， （）：
+flammatorystateofuremia J . BloodPurif 2000 18 4 2013 150 3 736-744.
+［ ］ ， ， ，
+327-332. 24 CHENJ MUNTNERP HAMMLL etal. Themetabol⁃
+［ ］于敏，王姣，史耀勋，等 慢性肾衰竭微炎症状态发生
+10 . ic syndrome and chronic kidney disease in U. S. adults
+机制的研究进展［］ 中华医院感染学杂志， ， ［］ ， ， （）：
+J . 2010 20 J .AnnInternMed 2004 140 3 167-174.
+（ ）： ［ ］匡调元 两纲八要辨体质新论［］中医药学刊， ，
+10 1498-1500. 25 . J . 2003
+［ ］石肖女 慢性肾脏病患者微炎症状态相关影响因素分 （）：
+11 . 4 1 108-110.
+析［ ］长春：吉林大学， ［ ］孙响波 中医药理论下 “微炎症状态”的“痰 瘀
+D . 2014. 26 . CRF - -
+［ ］ ， ， 虚”模式探讨［］ 时珍国医国药， ，（）：
+12 TSIRPANLIS G CHATZIPANAGIOTOU S NICOLAOU J . 2016 27 9 2228-
+C. Microinflammation versus inflammation in chronic re⁃ 2229.
+［］ ， ， （）： ［ ］姚琦，喻松仁，白洋，等 肥胖从痰湿论治的研究概况
+nal failure patients J . Kidney Int 2004 66 5 2093- 27 .
+［］江西中医药， ，（）：
+2094. J . 2019 50 6 71-74.
+［ ］ ， ［ ］陈丽春，杨彩凤，曾慧妍 基于外周及肠道免疫机制从
+13 FORD ES. Leukocyte count erythrocyte sedimentation 28 .
+中医杂志 年 月第 卷第 期 ， ， ， · ·
+2021 11 62 21 JournalofTraditionalChineseMedicine 2021 Vol.62 No.21 1845
+痰湿论治肥胖的研究［］ 中国中医基础医学杂志， -
+J . gutmicrobiotacontrolmetabolicendotoxemia inducedin⁃
+，（）： - -
+2021 27 2 340-344. flammation in high fat diet induced obesity and diabetes
+［ ］ ： ［］ ， ，（）：
+29 RIELLA MC. Malnutrition in dialysis malnourishment inmice J . Diabetes 2008 57 6 1470-1481.
+？［］ ， ， ［ ］ ：
+or uremic inflammatory response J . Kidney Int 2000 44 VERKMAN AS. Aquaporins translating bench research
+（）： ［］ ， ， （ ）：
+57 3 1211-1232. to human disease J . J Exp Biol 2009 212 Pt 11
+［ ］郭传，尹德海 糖尿病肾病微炎症状态的中西医研究
+30 . 1707-1715.
+概况［］世界中西医结合杂志 ，（）： ［ ］李姿慧，王键，蔡荣林 湿病与水通道蛋白的相关性研
+J . 2019 14 2 157-160. 45 .
+［ ］李瑞，张国胜，段明亮，等 -反应蛋白与慢性肾脏病 究进展［］中西医结合学报， ，（）：
+31 .C J . 2011 9 1 5-10.
+患者微炎症状态及中医证候关系的探讨［］ 中医学 ［ ］ ， ，
+J . 46 MELI R PIROZZI C PELAGALLI A. New Perspec⁃
+报， ，（ ）： （ ）
+2016 31 10 1592-1596. tives on the potential role of Aquaporins AQPs in the
+［ ］ ， - ， ［］ ， ， ：
+32 RUDNICKAAR MT ISAS MEADETW. Associations physiology of inflammation J . Front Physiol 2018 9
+：
+of plasma fibrinogen and factor VII clotting activity with 101.doi 10.3389/fphys.2018.00101.
+： ［ ］ ， ， -
+coronary heart disease and stroke prospective cohort 47 SISTO M RIBATTI D LISI S. Aquaporin water chan
+：
+study from the screening phase of the thrombosis preven⁃ nels Newperspectivesonthepotentialroleininflamma⁃
+［］ ， ，（ ）： ［］ ， ， ：
+tion trial J . J Thromb Haemost 2006 4 11 2405- tion J . Adv Protein Chem Struct Biol 2019 116 311-
+：
+2410. 345. doi 10.1016/bs.apcsb.2018.11.010.
+［ ］王传池，杨燕，吴珊，等 冠心病不同发展阶段中医证 ［ ］龚勇珍，孙少卫，廖端芳 细胞炎症反应与脂质代谢的
+33 . 48 .
+演变规律研究［］ 中华中医药杂志， ， （）： 相互作用及调节［］ 中国动脉硬化杂志， ，
+J . 2019 34 5 J . 2017 25
+（）：
+2101-2106. 6 623-629.
+［ ］罗敏，黄力，张沛然，等 冠心病患者血清超敏 反应 ［ ］杨宇峰，刘军彤 基于代谢组学的代谢综合征痰湿证
+34 . C 49 .
+蛋白及超氧化物歧化酶与中医证型的相关性［］ 中 生物标志物研究［］ 时珍国医国药， ， （）：
+J . J . 2020 31 2
+医杂志， ，（ ）：
+2014 55 22 1926-1928. 509-512.
+［ ］邢之华，徐采云，刘卫平，等 冠心病不同中医证型与 ［ ］ ， ， ， -
+35 . 50 PANICHI V MIGLIORI M DE PIETRO S et al. C
+、 - 的相关性研究［］ 中华中医药学刊， -
+FIB HS CRP J . reactiveproteinandinterleukin 6levelsarerelatedtore⁃
+，（）： ［］
+2011 29 4 677-679. nal function in predialytic chronic renal failure J .
+［ ］马丽丽，王先敏 新疆高尿酸血症痰浊阻滞证、非痰浊 ， ，（）：
+36 . Nephron 2002 91 4 594-600.
+阻滞证与炎性因子蛋白水平相关性研究［］ 中医药 ［ ］ ， ， - ，
+J . 51 OPRESCU N MICHEU MM SCAFA UDRISTE A et
+临床杂志， ，（）：
+2019 31 2 199-202. al. Inflammatory markers in acute myocardial infarction
+［ ］游香华 子宫内膜增生中医证型与血清炎症因子的相
+37 . andthecorrelationwiththeseverityofcoronaryheartdis⁃
+关性研究［ ］北京：北京中医药大学， ［］ ， ，（）：
+D . 2018. ease J .AnnMed 2021 53 1 1041-1047.
+［ ］ ， ， ， ［ ］肖雪，王乐琪，谢志茹，等 炎症介质：探讨血瘀证生物
+38 NAGPAL R KUMAR M YADAV AK et al. Gut mi⁃ 52 .
+： 学基础新思路［］ 中华中医药杂志， ， （）：
+crobiota in health and disease an overview focused on J . 2021 36 1
+［］ ， ，
+metabolic inflammation J . Benef Microbes 2016 7 32-36.
+（）： ［ ］任毅，周袁申，张敏州，等 胸痹心痛患者中医证型与
+2 181-194. 53 .
+［ ］张北华，王凤云，卞兆祥，等 证候表型与肠道微生态 血脂水平、炎症因子的关系探讨［］ 时珍国医国药，
+39 . J .
+的相关性［］中医杂志， ，（）： ，（）：
+J . 2018 59 1 21-25. 2012 23 4 977-979.
+［ ］邵铁娟，李海昌，谢志军，等 基于脾主运化理论探讨 ［ ］庄逸洋，卢茵茵，李荣，等 通窍救心油舌下给药对不
+40 . 54 .
+脾虚湿困与肠道菌群紊乱的关系［］ 中华中医药杂 稳定型心绞痛气滞血瘀证患者炎症指标的影响［］
+J . J .
+志， ，（ ）： 中医杂志， ，（ ）：
+2014 29 12 3762-3765. 2018 59 20 1758-1762.
+［ ］闻向晖，刘秋萍，余怡然，等 内湿致病与肠道菌群失 ［ ］马俊杰，张以来 基于归脾丸对 贫血患者微
+41 . 55 . MHDCKD
+调的关系［］中医杂志， ，（ ）： 炎症状态调节探讨“培土生血”内涵［］ 世界科学技
+J . 2018 59 16 1377-1379. J .
+［ ］陈默，孔银，王君，等 肠道菌群与非酒精性脂肪肝相 术 中医药现代化， ，（）：
+42 . - 2014 16 3 634-637.
+关性的研究进展［］ 中国微生态学杂志， ， ［ ］金善善，许文成，王小琴 从炎症细胞因子探讨中医风
+J . 2015 27 56 .
+（）： 邪致病的物质基础［］ 中华中医药学刊， ，
+8 989-993. J . 2019 37
+［ ］ ， ， ， （）：
+43 CANI PD BIBILONI R KNAUF C et al. Changes in 1 67-69.
+(下转第 页)
+1854
+· · 中医杂志 年 月第 卷第 期 ， ， ，
+1854 2021 11 62 21 JournalofTraditionalChineseMedicine 2021 Vol.62 No.21
+Professor DU Wuxun s Experience in Treating Arrhythmia with Syndrome Differentiation Mode based on
+'
+“MutualPromotion，Control，RestraintandTransformationamongFiveZangOrgans （五脏）”
+CHEN Jinhong1，LIU Zhichao1，DENG Fangjun1，FAN Boya1，LIANG Jiayu1，CONG Zidong2，LI
+Xiaofeng2
+， ， ；
+1. Tianjin University ofTraditionalChinese Medicine Tianjin 301617 2. The Second Affiliated HospitalofTianjin University
+ofTraditionalChineseMedicine
+ABSTRACT
+This papersummarizes ProfessorDU Wuxun's experience in treating arrhythmia with syndrome differ⁃
+“ ， ， zang （五脏）”
+entiation mode based on mutualpromotion control restraintand transformation among five organs . It
+qi， -
+is believed that the core pathogenesis of arrhythmia is the decline of center following the non interaction between
+； ， -
+theheartandthekidney fireontopandthedampnessinthemiddlewasmostlyseen accompaniedbywater coldand
+zang ，
+wood constraint. Following the core of the pathogenesis and the overall balance concept of five organs it is sug⁃
+- ， - ，
+gested to take the spleen stomach axis as the root clearing and draining the heart fire and returning fire to its
+， ，
+source. At the same time the liver should be soothed to relieve the wood and water be diverted to the fire of the
+Liangui Ningxin Decoction（连桂宁心汤） ， qi
+above. is formed following the suggested method which can smooth the
+zang
+movementandharmonizethefive organs.
+Keywords ； ， ， zang （五脏）；
+arrhythmia mutualpromotion control restraintandtransformationamongthefive organs
+LianguiNingxinDecoction（连桂宁心汤）； ；
+experienceoffamousdoctors DUWuxun
+（收稿日期： ；修回日期： ）
+2021-07-04 2021-08-19
+［编辑：贾维娜］
+(上接第 页)
+1845
+CorrelationbetweenMicro-inflammatoryStateandDampnessSyndromeinTraditionalChineseMedicine
+CHEN Xueyin1，KANG Fuqin1，YANG Lihong2，HE Min2，LIU Shaonan2，HE Yihan2，DENG Xueyi1，
+ZHANG Lei2，MAO Wei2，GUO Xinfeng2
+， ， ； -
+1. TheSecondClinicalMedicalCollegeofGuangzhouUniversityofChineseMedicine Guangzhou 510405 2. GuangdongPro
+vinceTraditionalChineseMedicineHospital
+ABSTRACT - ，
+Micro inflammatory state is commonly seen in multiple chronic diseases and the essence is immune
+（ ），
+inflammation. Dampness syndrome is a common clinical syndrome of traditional Chinese medicine TCM whose
+-
+pathogenesisandclinicalmanifestationsarehighlysimilartothemicro inflammationstate. Thispapersummarizedthe
+-
+similaritiesbetweenTCM dampnesssyndromeandmicro inflammationstateinthemacroscopicappearanceandpatho⁃
+，
+genesis characteristics based on the previous research results and explored the correlations between them from the
+， ， ；
+perspectives of modern diseases such as obesity chronic kidney disease and coronary atherosclerotic heart disease
+， ，
+moreover the possible relations on biological mechanism were investigated from the perspectives of intestinal flora
+， -
+waterandlipid metabolism inferringthatthemicro inflammatorystatemaybeoneimportantmanifestationofthepatho⁃
+logicalchangesofTCMdampnesssyndrome.
+Keywords ； - ； ； ； ；
+dampness syndrome micro inflammation state cytokines intestinal flora aquaporin lipids metaboli⁃
+sim
+（收稿日期： ；修回日期： ）
+2021-06-17 2021-08-03
+［编辑：姜 冰，王利芬］

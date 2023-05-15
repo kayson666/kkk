@@ -34,7 +34,6 @@ def pdf_to_txt(pdf_file_path, output_txt_path):
                     output_file.write('\n')
 
 
-
-input_dir = '/home/sunzhaoyang/PycharmProjects/kkk-main/kkk/caj_test'
-output_dir = '/home/sunzhaoyang/PycharmProjects/kkk-main/kkk/caj_test'
+input_dir = '/home/sunzhaoyang/PycharmProjects/kkk-main/kkk/现代文本/论文集/中医杂志/知网论文'
+output_dir = '/home/sunzhaoyang/PycharmProjects/kkk-main/kkk/现代文本/论文集/中医杂志/知网论文'
 batch_convert(input_dir, output_dir)
