@@ -2,10 +2,10 @@ import fitz  # PyMuPDF
 import os
 
 # Directory containing the PDF files
-pdf_dir = '/home/sunzhaoyang/PycharmProjects/kkk-main/kkk/现代文本/论文集/中草药'
+pdf_dir = '/home/sunzhaoyang/PycharmProjects/kkk-main/kkk/现代文本/论文集/针刺研究'
 
 # Directory to save the txt files
-txt_dir = '/home/sunzhaoyang/PycharmProjects/kkk-main/kkk/现代文本/论文集/中草药/中草药txt'
+txt_dir = '/home/sunzhaoyang/PycharmProjects/kkk-main/kkk/现代文本/论文集/针刺研究/针刺研究txt'
 
 # List all files in the directory
 files = os.listdir(pdf_dir)
@@ -14,7 +14,7 @@ files = os.listdir(pdf_dir)
 pdf_files = [file for file in files if file.endswith('.pdf')]
 
 # List of keywords to remove
-keywords = ['中医杂志', '通讯作者', '基金项目', '中华中医药杂志', '中华中医药学刊', '中国中医基础医学杂志', '中国中西医结合杂志', '中成药', '中草药']
+keywords = ['中医杂志', '通讯作者', '基金项目', '中华中医药杂志', '中华中医药学刊', '中国中医基础医学杂志', '中国中西医结合杂志', '中成药', '中草药', '中药材', '北京中医药大学学报', '南京中医药大学学报', '针刺研究']
 
 # Loop through all the PDF files
 for pdf_file in pdf_files:
